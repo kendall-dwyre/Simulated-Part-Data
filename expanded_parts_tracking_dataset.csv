@@ -1,0 +1,1001 @@
+Part_ID,Part_Name,Part_Number,Quantity_on_Hand,Reorder_Threshold,Last_Ordered_Date,Average_Monthly_Usage,Supplier,Cost_per_Unit,Lead_Time_Days,Bulk_Discount_Available
+101,Air Filter,CL707,30,4,2024-08-19,2.0,Supplier D,383.54,25,Yes
+102,Tire,T202,31,2,2023-02-11,12.2,Supplier D,484.38,4,Yes
+103,Transmission Fluid,AF456,6,6,2024-09-18,7.9,Supplier A,406.06,11,Yes
+104,Transmission Fluid,OF123,41,6,2024-02-18,14.2,Supplier A,26.41,26,Yes
+105,Oil Filter,HH101,62,3,2023-05-06,10.0,Supplier C,167.13,5,Yes
+106,Brake Pad,BT404,48,3,2023-03-21,8.9,Supplier B,377.6,21,No
+107,Battery,OF123,17,9,2024-01-21,9.6,Supplier A,95.8,2,No
+108,Fuel Filter,SP303,73,4,2024-02-06,9.0,Supplier D,11.92,16,No
+109,Oil Filter,BP505,72,7,2023-12-04,16.3,Supplier E,408.96,20,Yes
+110,Spark Plug,BT404,55,2,2024-08-21,6.9,Supplier D,495.49,2,Yes
+111,Transmission Fluid,BP505,71,9,2024-02-08,18.1,Supplier E,486.34,12,Yes
+112,Brake Pad,FF789,94,8,2023-01-21,6.9,Supplier C,490.69,20,No
+113,Hydraulic Hose,FF789,90,4,2024-04-15,18.2,Supplier C,301.21,11,Yes
+114,Hydraulic Hose,T202,66,1,2024-05-16,18.9,Supplier B,245.77,5,No
+115,Spark Plug,FF789,94,6,2024-06-20,7.3,Supplier B,114.3,13,No
+116,Brake Pad,AF456,99,8,2024-01-17,12.3,Supplier E,159.65,28,Yes
+117,Oil Filter,BT404,89,4,2023-11-12,14.2,Supplier E,115.78,2,Yes
+118,Brake Pad,CL707,24,3,2024-09-05,14.1,Supplier D,151.82,10,No
+119,Oil Filter,TF606,58,1,2024-03-20,5.3,Supplier D,382.02,13,Yes
+120,Hydraulic Hose,BP505,77,7,2024-09-05,6.5,Supplier B,111.74,11,Yes
+121,Battery,FF789,86,9,2023-12-17,1.0,Supplier D,64.54,27,Yes
+122,Spark Plug,FF789,71,7,2023-11-26,13.6,Supplier E,435.57,4,Yes
+123,Fuel Filter,TF606,66,1,2024-01-18,16.0,Supplier C,141.74,3,No
+124,Tire,BT404,42,5,2023-12-03,7.4,Supplier C,113.25,20,Yes
+125,Tire,SP303,27,9,2024-02-15,7.9,Supplier A,219.55,11,Yes
+126,Air Filter,AF456,77,9,2023-02-05,18.3,Supplier E,299.1,17,No
+127,Transmission Fluid,BP505,92,7,2023-09-30,11.3,Supplier E,266.99,13,Yes
+128,Transmission Fluid,HH101,2,1,2023-06-21,13.6,Supplier D,71.05,16,Yes
+129,Fuel Filter,TF606,19,6,2024-02-05,5.9,Supplier A,10.04,11,No
+130,Tire,SP303,41,2,2023-12-09,16.8,Supplier A,347.76,29,No
+131,Coolant,HH101,44,5,2023-11-16,10.9,Supplier A,378.37,26,Yes
+132,Transmission Fluid,SP303,17,8,2024-02-02,2.1,Supplier D,67.11,14,No
+133,Brake Pad,CL707,15,1,2024-04-29,8.4,Supplier B,483.85,23,No
+134,Hydraulic Hose,AF456,24,7,2024-08-17,18.1,Supplier E,55.25,2,Yes
+135,Tire,BT404,61,4,2024-01-08,5.4,Supplier D,150.54,18,Yes
+136,Coolant,T202,52,4,2024-01-21,15.9,Supplier E,301.76,8,No
+137,Oil Filter,T202,40,6,2024-01-17,3.5,Supplier A,175.73,16,Yes
+138,Battery,OF123,24,6,2024-01-02,17.9,Supplier B,118.05,29,No
+139,Fuel Filter,FF789,68,7,2024-04-23,4.5,Supplier A,353.24,1,Yes
+140,Fuel Filter,FF789,81,7,2024-07-12,13.2,Supplier E,166.45,5,No
+141,Oil Filter,BT404,75,7,2023-04-02,2.3,Supplier C,109.49,5,Yes
+142,Fuel Filter,BT404,11,6,2023-01-17,6.9,Supplier E,147.31,2,No
+143,Fuel Filter,FF789,59,5,2023-02-26,1.0,Supplier D,33.41,5,No
+144,Spark Plug,SP303,94,5,2023-06-17,12.2,Supplier A,83.89,7,No
+145,Hydraulic Hose,TF606,41,7,2024-01-18,10.2,Supplier D,320.63,5,Yes
+146,Spark Plug,FF789,30,3,2024-02-01,15.5,Supplier C,130.1,27,No
+147,Coolant,FF789,15,3,2023-01-10,8.7,Supplier D,486.87,9,Yes
+148,Hydraulic Hose,CL707,32,8,2024-07-11,19.9,Supplier E,290.67,15,No
+149,Transmission Fluid,TF606,10,7,2023-11-04,3.1,Supplier D,262.04,13,No
+150,Brake Pad,CL707,89,4,2023-02-09,9.5,Supplier B,425.27,10,Yes
+151,Hydraulic Hose,BT404,64,1,2023-04-02,0.7,Supplier B,372.79,22,Yes
+152,Air Filter,CL707,74,9,2024-07-30,8.7,Supplier D,163.43,7,Yes
+153,Brake Pad,TF606,17,5,2023-01-11,8.3,Supplier B,159.87,28,No
+154,Hydraulic Hose,BT404,63,9,2024-02-17,5.7,Supplier B,464.91,8,Yes
+155,Oil Filter,OF123,16,2,2024-04-03,8.2,Supplier B,139.74,28,Yes
+156,Brake Pad,TF606,70,6,2023-07-31,4.2,Supplier E,258.89,18,No
+157,Spark Plug,BP505,60,1,2024-09-12,1.5,Supplier E,148.03,6,No
+158,Spark Plug,HH101,12,9,2023-02-10,1.9,Supplier E,258.22,18,No
+159,Transmission Fluid,TF606,72,9,2023-04-10,7.4,Supplier B,389.25,13,No
+160,Battery,FF789,34,5,2024-06-21,14.5,Supplier D,214.15,2,No
+161,Battery,T202,87,6,2024-01-31,3.9,Supplier B,353.53,6,No
+162,Air Filter,T202,18,6,2023-07-08,14.7,Supplier E,102.65,1,Yes
+163,Hydraulic Hose,CL707,82,7,2023-06-15,2.1,Supplier E,294.81,18,Yes
+164,Spark Plug,OF123,94,1,2023-02-18,13.8,Supplier C,182.61,21,No
+165,Spark Plug,SP303,22,4,2023-08-08,11.6,Supplier B,404.01,24,No
+166,Air Filter,AF456,99,8,2024-01-25,10.4,Supplier A,164.9,10,No
+167,Oil Filter,BP505,89,2,2024-03-24,16.4,Supplier D,148.88,22,Yes
+168,Brake Pad,CL707,9,4,2023-01-13,6.0,Supplier B,294.98,10,Yes
+169,Battery,BP505,41,1,2024-08-18,16.2,Supplier D,229.93,10,No
+170,Fuel Filter,OF123,69,8,2024-01-20,14.2,Supplier B,139.42,3,Yes
+171,Tire,BT404,30,2,2023-10-31,1.6,Supplier E,400.24,14,No
+172,Fuel Filter,SP303,50,8,2024-04-14,2.4,Supplier A,184.36,16,Yes
+173,Air Filter,BP505,98,3,2024-06-09,5.8,Supplier C,337.84,21,Yes
+174,Hydraulic Hose,BP505,49,1,2023-01-10,2.4,Supplier B,40.24,10,No
+175,Spark Plug,SP303,57,1,2023-08-17,17.9,Supplier B,274.03,16,Yes
+176,Spark Plug,BT404,48,4,2024-06-24,12.2,Supplier C,34.09,1,No
+177,Air Filter,AF456,72,1,2024-03-08,9.9,Supplier C,118.94,6,Yes
+178,Air Filter,BT404,49,4,2023-10-16,6.0,Supplier D,487.2,11,No
+179,Hydraulic Hose,SP303,73,3,2024-07-23,3.1,Supplier A,184.61,4,No
+180,Brake Pad,TF606,70,9,2024-06-17,0.9,Supplier E,230.59,27,No
+181,Fuel Filter,BT404,1,7,2024-02-07,1.1,Supplier D,349.22,16,Yes
+182,Spark Plug,FF789,39,9,2023-09-28,1.7,Supplier C,66.29,9,No
+183,Oil Filter,SP303,90,6,2024-05-25,18.8,Supplier E,28.73,17,Yes
+184,Hydraulic Hose,BP505,37,7,2024-07-10,18.2,Supplier E,168.62,20,Yes
+185,Fuel Filter,SP303,25,7,2024-03-02,6.5,Supplier C,336.7,27,Yes
+186,Tire,BP505,33,5,2024-06-08,18.7,Supplier C,320.79,27,Yes
+187,Oil Filter,OF123,12,5,2023-12-01,14.4,Supplier D,289.59,19,Yes
+188,Fuel Filter,CL707,30,5,2024-02-26,6.8,Supplier B,144.9,9,No
+189,Battery,FF789,82,7,2024-04-29,7.2,Supplier D,36.02,23,Yes
+190,Transmission Fluid,SP303,89,9,2024-03-14,13.6,Supplier C,309.35,21,Yes
+191,Tire,HH101,8,2,2023-01-01,2.9,Supplier C,366.3,6,Yes
+192,Air Filter,SP303,96,8,2023-07-16,1.6,Supplier D,81.94,19,Yes
+193,Transmission Fluid,AF456,98,3,2023-10-18,1.8,Supplier C,181.52,22,Yes
+194,Fuel Filter,T202,84,2,2024-03-20,8.1,Supplier E,343.38,19,Yes
+195,Tire,T202,10,2,2023-04-02,1.9,Supplier C,341.91,23,No
+196,Transmission Fluid,SP303,18,9,2024-05-16,17.5,Supplier D,113.44,8,No
+197,Coolant,CL707,34,8,2024-06-07,4.5,Supplier B,87.29,22,Yes
+198,Brake Pad,OF123,14,1,2023-10-18,17.2,Supplier E,43.66,8,Yes
+199,Tire,T202,96,9,2023-01-22,5.8,Supplier C,435.65,8,No
+200,Oil Filter,SP303,93,3,2023-11-19,10.8,Supplier E,404.8,11,Yes
+201,Brake Pad,SP303,58,3,2023-11-15,16.3,Supplier E,404.15,26,Yes
+202,Coolant,SP303,21,6,2023-05-07,14.3,Supplier D,442.09,21,Yes
+203,Fuel Filter,CL707,17,1,2023-05-09,3.2,Supplier D,459.25,1,No
+204,Hydraulic Hose,BT404,65,6,2024-03-24,9.9,Supplier A,116.82,23,No
+205,Coolant,FF789,47,7,2024-01-30,1.3,Supplier D,262.51,9,Yes
+206,Transmission Fluid,TF606,18,4,2023-12-30,17.1,Supplier A,303.84,12,Yes
+207,Brake Pad,BP505,13,1,2023-09-02,2.7,Supplier B,74.06,3,No
+208,Coolant,BT404,25,8,2023-06-26,6.8,Supplier C,229.41,7,No
+209,Tire,AF456,69,2,2023-01-10,3.5,Supplier B,53.63,24,Yes
+210,Hydraulic Hose,AF456,30,7,2023-06-13,1.6,Supplier A,196.09,12,No
+211,Coolant,HH101,84,1,2024-02-20,0.5,Supplier E,335.79,27,No
+212,Brake Pad,CL707,12,6,2024-03-18,18.5,Supplier D,454.13,12,Yes
+213,Hydraulic Hose,HH101,85,6,2024-03-14,16.3,Supplier A,142.45,23,No
+214,Transmission Fluid,T202,84,2,2024-03-13,10.1,Supplier D,64.77,24,No
+215,Fuel Filter,CL707,49,6,2024-04-27,16.5,Supplier D,419.09,11,Yes
+216,Tire,FF789,53,6,2023-02-28,16.2,Supplier D,129.93,22,No
+217,Hydraulic Hose,AF456,89,1,2023-03-12,10.6,Supplier B,90.53,26,Yes
+218,Battery,BP505,96,6,2024-05-07,12.7,Supplier E,194.64,2,No
+219,Brake Pad,HH101,3,7,2024-06-23,1.7,Supplier E,348.85,8,No
+220,Air Filter,TF606,49,3,2024-02-12,6.0,Supplier A,198.67,10,No
+221,Hydraulic Hose,CL707,76,1,2024-09-09,9.6,Supplier B,300.67,15,Yes
+222,Hydraulic Hose,T202,95,3,2023-12-27,11.2,Supplier D,240.81,21,Yes
+223,Fuel Filter,FF789,3,4,2023-10-18,6.2,Supplier B,30.89,3,No
+224,Battery,CL707,43,3,2023-10-31,17.2,Supplier B,133.23,8,Yes
+225,Coolant,SP303,26,7,2023-08-16,12.6,Supplier A,479.47,23,Yes
+226,Battery,SP303,49,2,2024-05-25,15.7,Supplier C,264.86,19,No
+227,Brake Pad,BT404,44,2,2024-05-10,1.8,Supplier D,347.99,24,No
+228,Transmission Fluid,FF789,87,2,2023-02-26,6.9,Supplier A,363.87,24,Yes
+229,Air Filter,SP303,90,1,2024-09-03,4.1,Supplier B,183.42,21,No
+230,Tire,SP303,96,5,2024-02-04,2.1,Supplier C,71.26,13,Yes
+231,Fuel Filter,TF606,24,1,2023-06-01,5.8,Supplier E,373.0,2,Yes
+232,Tire,BT404,27,2,2023-11-02,1.6,Supplier D,184.81,26,No
+233,Coolant,SP303,14,6,2023-07-20,0.9,Supplier E,200.73,4,Yes
+234,Brake Pad,OF123,16,7,2024-03-05,7.0,Supplier E,458.32,20,No
+235,Coolant,FF789,60,8,2024-01-23,5.1,Supplier E,275.93,7,Yes
+236,Spark Plug,TF606,45,9,2024-06-09,7.2,Supplier D,352.22,7,No
+237,Hydraulic Hose,OF123,14,8,2024-09-20,19.8,Supplier D,295.53,6,No
+238,Fuel Filter,FF789,59,3,2024-02-21,4.0,Supplier E,133.44,7,Yes
+239,Air Filter,AF456,25,1,2023-01-22,4.8,Supplier B,53.42,15,Yes
+240,Fuel Filter,FF789,69,8,2023-04-10,3.9,Supplier B,19.43,28,No
+241,Tire,OF123,77,8,2023-11-30,5.2,Supplier C,199.35,16,No
+242,Coolant,TF606,44,4,2023-03-23,13.1,Supplier A,466.15,1,Yes
+243,Oil Filter,OF123,17,9,2024-08-17,9.6,Supplier E,98.86,13,No
+244,Air Filter,BT404,89,5,2023-10-11,0.7,Supplier B,164.27,16,No
+245,Battery,CL707,85,7,2023-11-07,18.2,Supplier A,394.81,10,No
+246,Hydraulic Hose,CL707,82,2,2023-05-07,10.0,Supplier D,95.98,26,No
+247,Fuel Filter,BT404,50,3,2024-05-06,5.6,Supplier B,77.58,22,Yes
+248,Battery,CL707,6,1,2023-09-04,12.2,Supplier D,408.24,20,Yes
+249,Spark Plug,T202,40,1,2023-11-26,14.3,Supplier D,122.87,3,Yes
+250,Transmission Fluid,HH101,94,2,2024-01-23,2.8,Supplier C,351.58,27,No
+251,Hydraulic Hose,AF456,6,8,2024-01-27,16.2,Supplier B,101.54,29,Yes
+252,Battery,HH101,14,9,2023-10-28,10.7,Supplier B,268.55,14,Yes
+253,Coolant,BT404,7,7,2024-01-05,14.0,Supplier C,190.24,5,Yes
+254,Tire,FF789,37,3,2024-05-23,3.2,Supplier D,417.7,4,Yes
+255,Air Filter,CL707,76,6,2024-08-14,13.3,Supplier E,109.63,13,Yes
+256,Oil Filter,BT404,70,5,2023-03-30,14.5,Supplier B,168.95,20,No
+257,Transmission Fluid,BT404,88,4,2023-02-04,15.5,Supplier A,248.36,27,No
+258,Battery,BT404,17,7,2024-04-22,7.5,Supplier C,494.17,10,No
+259,Transmission Fluid,BP505,26,4,2024-02-19,10.6,Supplier A,179.32,1,No
+260,Spark Plug,FF789,17,7,2023-12-14,11.6,Supplier D,471.75,4,Yes
+261,Transmission Fluid,T202,74,5,2023-11-06,12.0,Supplier A,343.42,24,No
+262,Air Filter,T202,4,3,2023-04-13,4.0,Supplier B,25.6,17,Yes
+263,Fuel Filter,AF456,42,1,2023-10-24,17.9,Supplier A,117.69,27,No
+264,Brake Pad,BP505,16,7,2024-01-14,3.1,Supplier E,224.86,12,Yes
+265,Air Filter,CL707,72,6,2023-11-29,12.2,Supplier A,106.57,7,No
+266,Hydraulic Hose,OF123,70,2,2023-06-14,8.2,Supplier D,380.12,3,No
+267,Hydraulic Hose,FF789,85,4,2023-08-07,3.4,Supplier C,219.96,5,Yes
+268,Air Filter,AF456,50,1,2023-10-09,14.6,Supplier D,239.1,16,Yes
+269,Tire,FF789,75,6,2023-10-22,3.6,Supplier E,42.92,16,Yes
+270,Coolant,AF456,81,6,2023-02-05,1.1,Supplier B,283.77,25,No
+271,Spark Plug,T202,58,1,2023-02-25,19.3,Supplier C,179.29,10,Yes
+272,Transmission Fluid,T202,98,6,2023-05-02,18.7,Supplier E,395.43,16,No
+273,Spark Plug,BT404,40,3,2023-01-08,9.9,Supplier E,320.18,2,No
+274,Tire,FF789,71,7,2024-09-23,4.4,Supplier A,376.33,22,No
+275,Tire,FF789,40,5,2023-01-07,18.1,Supplier E,403.39,19,Yes
+276,Oil Filter,T202,34,2,2023-07-08,5.5,Supplier A,479.79,26,No
+277,Fuel Filter,T202,91,3,2024-01-18,7.3,Supplier A,183.56,17,No
+278,Spark Plug,OF123,84,8,2023-02-22,9.5,Supplier B,143.12,17,No
+279,Brake Pad,FF789,51,4,2024-09-03,13.7,Supplier A,297.99,14,No
+280,Spark Plug,SP303,40,7,2024-03-22,5.4,Supplier D,243.29,22,Yes
+281,Transmission Fluid,BP505,22,2,2024-07-15,13.7,Supplier A,116.25,12,Yes
+282,Tire,T202,68,8,2023-10-22,11.6,Supplier C,420.31,25,Yes
+283,Hydraulic Hose,BP505,2,4,2023-08-28,15.7,Supplier A,463.39,21,No
+284,Hydraulic Hose,OF123,20,8,2023-04-04,3.6,Supplier E,110.33,17,No
+285,Transmission Fluid,CL707,33,9,2023-04-21,4.8,Supplier E,388.79,19,Yes
+286,Hydraulic Hose,BP505,34,3,2024-02-11,1.1,Supplier E,460.52,18,Yes
+287,Hydraulic Hose,TF606,55,3,2023-04-24,8.0,Supplier E,104.65,12,No
+288,Oil Filter,T202,69,1,2023-03-16,3.6,Supplier D,323.92,17,Yes
+289,Brake Pad,HH101,68,5,2023-11-09,2.5,Supplier B,200.66,7,No
+290,Battery,TF606,72,3,2024-09-03,3.2,Supplier B,85.25,20,Yes
+291,Coolant,T202,52,7,2023-12-12,3.4,Supplier D,113.85,3,Yes
+292,Oil Filter,AF456,38,6,2024-03-18,6.9,Supplier A,386.96,24,Yes
+293,Coolant,AF456,66,9,2023-05-22,1.9,Supplier B,53.48,1,Yes
+294,Fuel Filter,FF789,29,1,2023-01-20,17.3,Supplier B,496.82,5,Yes
+295,Air Filter,TF606,97,8,2023-05-01,1.2,Supplier B,410.72,2,Yes
+296,Transmission Fluid,OF123,85,1,2023-01-13,2.9,Supplier B,330.49,9,Yes
+297,Hydraulic Hose,OF123,33,3,2023-01-31,8.0,Supplier C,452.63,3,No
+298,Air Filter,T202,62,1,2024-03-24,4.4,Supplier C,308.59,25,Yes
+299,Battery,AF456,36,8,2023-08-29,3.9,Supplier A,311.9,28,No
+300,Battery,SP303,34,3,2024-03-27,17.4,Supplier C,446.88,11,No
+301,Brake Pad,FF789,7,2,2023-05-13,14.1,Supplier D,469.74,24,Yes
+302,Transmission Fluid,OF123,63,5,2024-02-17,16.8,Supplier D,64.19,12,Yes
+303,Battery,BT404,83,2,2023-10-08,14.4,Supplier A,411.05,9,Yes
+304,Hydraulic Hose,CL707,20,1,2024-10-01,11.4,Supplier D,300.53,21,Yes
+305,Brake Pad,T202,49,5,2024-03-28,10.4,Supplier B,218.33,16,No
+306,Brake Pad,HH101,10,7,2024-07-19,11.7,Supplier C,14.97,24,Yes
+307,Coolant,SP303,72,6,2024-05-26,8.8,Supplier B,249.96,6,No
+308,Hydraulic Hose,SP303,70,8,2023-10-30,16.2,Supplier D,375.94,6,No
+309,Fuel Filter,CL707,59,4,2024-06-08,12.0,Supplier C,399.36,17,Yes
+310,Air Filter,HH101,59,7,2023-12-27,0.9,Supplier D,45.16,4,No
+311,Tire,FF789,30,4,2024-05-04,1.3,Supplier A,463.4,6,No
+312,Battery,T202,76,5,2024-05-13,18.9,Supplier B,191.65,19,No
+313,Transmission Fluid,TF606,97,9,2024-01-14,13.6,Supplier D,196.37,22,No
+314,Spark Plug,TF606,58,2,2024-03-10,14.2,Supplier C,358.58,23,No
+315,Coolant,HH101,64,6,2024-02-14,1.0,Supplier C,73.41,22,No
+316,Transmission Fluid,BT404,45,1,2024-02-25,5.8,Supplier D,205.2,17,No
+317,Fuel Filter,OF123,10,2,2023-08-07,18.6,Supplier A,490.82,1,No
+318,Hydraulic Hose,AF456,81,1,2023-05-17,8.9,Supplier A,108.35,29,Yes
+319,Oil Filter,AF456,46,3,2023-03-23,4.0,Supplier B,60.4,16,No
+320,Tire,HH101,73,4,2023-05-04,9.6,Supplier B,495.23,3,Yes
+321,Brake Pad,T202,18,7,2024-08-19,13.6,Supplier A,411.47,27,Yes
+322,Battery,FF789,7,7,2023-07-16,17.4,Supplier E,39.7,2,Yes
+323,Coolant,OF123,95,3,2023-01-09,4.6,Supplier E,11.15,10,Yes
+324,Transmission Fluid,TF606,80,5,2023-08-27,12.7,Supplier E,191.67,22,Yes
+325,Oil Filter,T202,57,2,2024-09-24,18.7,Supplier D,130.44,3,Yes
+326,Coolant,AF456,61,5,2024-07-09,11.6,Supplier D,78.07,2,Yes
+327,Hydraulic Hose,CL707,26,9,2023-10-17,18.4,Supplier C,204.55,24,No
+328,Oil Filter,CL707,47,9,2024-08-15,13.2,Supplier B,73.53,13,No
+329,Battery,BT404,53,4,2023-10-25,17.8,Supplier B,238.44,12,No
+330,Coolant,FF789,19,9,2024-02-09,4.3,Supplier A,258.08,17,No
+331,Oil Filter,BP505,65,8,2023-07-24,18.5,Supplier B,87.19,4,No
+332,Brake Pad,BP505,67,9,2023-07-15,9.2,Supplier B,307.32,9,Yes
+333,Air Filter,TF606,92,1,2024-04-03,12.2,Supplier A,396.01,5,No
+334,Fuel Filter,AF456,18,9,2024-06-06,14.3,Supplier D,228.55,29,No
+335,Tire,BP505,25,9,2024-05-19,10.8,Supplier B,262.42,14,Yes
+336,Spark Plug,OF123,24,3,2024-03-25,14.2,Supplier B,421.7,21,No
+337,Transmission Fluid,FF789,12,4,2023-11-29,14.5,Supplier D,342.93,13,Yes
+338,Brake Pad,CL707,7,2,2023-09-15,18.4,Supplier C,477.58,22,Yes
+339,Battery,BT404,35,6,2023-12-26,4.8,Supplier A,179.85,22,No
+340,Brake Pad,BP505,98,3,2024-05-14,8.3,Supplier A,221.58,16,No
+341,Brake Pad,T202,31,7,2024-09-18,13.6,Supplier C,458.97,12,No
+342,Brake Pad,CL707,4,5,2024-02-23,14.6,Supplier A,316.86,17,No
+343,Tire,BT404,36,6,2024-04-18,13.6,Supplier B,393.94,9,No
+344,Tire,T202,77,6,2023-09-14,10.5,Supplier B,185.0,18,Yes
+345,Tire,OF123,27,8,2024-04-02,19.1,Supplier E,358.99,16,No
+346,Fuel Filter,HH101,46,7,2023-02-08,13.5,Supplier E,365.7,1,No
+347,Tire,CL707,98,9,2024-01-27,16.0,Supplier C,398.48,23,Yes
+348,Hydraulic Hose,T202,47,6,2023-01-13,8.6,Supplier B,300.32,5,No
+349,Coolant,BT404,51,3,2023-03-02,12.4,Supplier C,307.93,14,No
+350,Tire,HH101,45,7,2023-02-26,9.1,Supplier B,102.15,2,No
+351,Hydraulic Hose,AF456,56,5,2023-03-31,3.3,Supplier E,254.64,1,Yes
+352,Oil Filter,FF789,78,9,2023-08-12,8.4,Supplier B,307.43,1,Yes
+353,Coolant,CL707,20,7,2024-05-02,11.2,Supplier D,185.53,28,No
+354,Air Filter,TF606,78,3,2023-05-30,1.8,Supplier D,191.99,3,Yes
+355,Battery,BT404,2,5,2024-07-16,10.7,Supplier E,363.27,14,Yes
+356,Coolant,BP505,25,5,2023-09-25,12.8,Supplier C,474.31,15,No
+357,Air Filter,OF123,21,1,2024-07-31,8.6,Supplier C,149.65,7,No
+358,Coolant,BT404,97,1,2023-07-16,14.8,Supplier D,66.07,12,Yes
+359,Transmission Fluid,TF606,3,3,2023-08-31,11.0,Supplier B,253.76,25,Yes
+360,Tire,TF606,63,7,2023-01-07,15.7,Supplier E,389.17,22,Yes
+361,Transmission Fluid,FF789,65,6,2023-01-05,11.7,Supplier E,380.0,6,Yes
+362,Spark Plug,TF606,15,1,2023-08-14,13.0,Supplier A,319.96,21,No
+363,Battery,T202,94,9,2023-03-22,11.9,Supplier C,59.61,2,Yes
+364,Tire,OF123,8,4,2023-02-04,4.4,Supplier A,241.52,27,No
+365,Transmission Fluid,CL707,68,7,2024-06-28,5.4,Supplier A,470.01,10,Yes
+366,Fuel Filter,TF606,9,8,2023-12-08,5.4,Supplier D,290.25,3,Yes
+367,Hydraulic Hose,BP505,54,4,2023-10-14,18.2,Supplier D,157.43,28,No
+368,Coolant,HH101,75,3,2023-05-09,7.2,Supplier A,304.52,11,Yes
+369,Transmission Fluid,HH101,20,1,2024-03-23,14.9,Supplier E,223.36,10,No
+370,Coolant,AF456,91,1,2024-03-10,15.4,Supplier B,198.21,13,Yes
+371,Tire,T202,98,2,2024-09-20,19.6,Supplier D,222.11,21,Yes
+372,Spark Plug,CL707,34,8,2023-12-12,12.3,Supplier C,104.69,29,No
+373,Brake Pad,TF606,84,3,2024-05-03,13.8,Supplier B,31.41,1,No
+374,Transmission Fluid,TF606,96,8,2023-01-26,8.4,Supplier C,209.57,18,No
+375,Fuel Filter,AF456,25,6,2024-04-17,13.4,Supplier E,351.75,5,Yes
+376,Air Filter,BP505,10,4,2023-07-12,8.1,Supplier D,277.23,28,Yes
+377,Fuel Filter,TF606,32,1,2023-12-03,2.5,Supplier A,25.42,7,Yes
+378,Fuel Filter,FF789,69,3,2023-12-09,12.4,Supplier C,126.58,25,Yes
+379,Tire,AF456,13,4,2023-06-24,15.7,Supplier D,314.35,26,No
+380,Fuel Filter,SP303,99,2,2023-04-13,19.2,Supplier B,365.16,18,No
+381,Air Filter,T202,59,4,2024-06-22,7.5,Supplier B,224.86,22,No
+382,Hydraulic Hose,AF456,65,3,2024-05-19,16.7,Supplier C,184.98,16,No
+383,Tire,OF123,62,7,2024-06-03,18.1,Supplier C,212.03,26,Yes
+384,Spark Plug,SP303,11,4,2024-01-12,4.5,Supplier B,373.54,15,No
+385,Oil Filter,TF606,53,6,2023-05-15,12.2,Supplier A,142.33,26,Yes
+386,Battery,SP303,78,7,2024-01-25,18.0,Supplier E,72.35,22,Yes
+387,Tire,BP505,81,4,2023-08-07,15.5,Supplier B,328.49,19,Yes
+388,Spark Plug,BT404,87,4,2023-03-16,8.2,Supplier A,384.47,25,No
+389,Brake Pad,TF606,58,5,2024-07-20,7.8,Supplier B,278.41,3,Yes
+390,Battery,AF456,82,9,2023-06-14,10.6,Supplier A,403.53,21,Yes
+391,Fuel Filter,OF123,11,2,2024-01-22,3.0,Supplier A,363.47,10,No
+392,Transmission Fluid,AF456,12,2,2023-11-06,15.3,Supplier C,349.0,8,No
+393,Air Filter,BT404,57,8,2023-06-15,3.8,Supplier C,71.55,11,No
+394,Battery,T202,0,6,2024-08-08,11.8,Supplier C,134.63,20,No
+395,Brake Pad,FF789,89,4,2023-11-25,13.0,Supplier E,171.47,27,No
+396,Oil Filter,SP303,27,1,2024-04-24,14.4,Supplier E,314.85,15,No
+397,Air Filter,TF606,17,8,2024-08-19,17.5,Supplier C,461.87,10,No
+398,Spark Plug,FF789,72,3,2024-04-18,4.8,Supplier E,50.85,2,Yes
+399,Brake Pad,BP505,62,9,2024-06-14,8.2,Supplier C,475.89,17,No
+400,Spark Plug,OF123,61,2,2023-09-21,3.0,Supplier D,311.56,24,No
+401,Air Filter,FF789,55,9,2023-01-13,1.9,Supplier D,129.37,17,Yes
+402,Oil Filter,FF789,25,5,2024-01-31,6.7,Supplier E,129.81,9,Yes
+403,Fuel Filter,AF456,22,9,2024-04-21,10.0,Supplier A,151.9,8,Yes
+404,Brake Pad,T202,66,4,2024-02-23,8.2,Supplier B,316.32,9,Yes
+405,Brake Pad,FF789,37,1,2024-02-21,2.9,Supplier B,305.94,24,No
+406,Coolant,TF606,0,6,2023-07-18,2.5,Supplier C,100.15,18,Yes
+407,Transmission Fluid,FF789,24,8,2024-02-05,15.8,Supplier E,24.15,12,Yes
+408,Spark Plug,TF606,32,3,2023-10-20,15.8,Supplier D,74.55,6,No
+409,Air Filter,T202,15,4,2023-03-12,9.7,Supplier B,133.33,18,Yes
+410,Fuel Filter,BT404,2,5,2024-09-04,8.0,Supplier C,139.64,29,No
+411,Oil Filter,CL707,17,8,2023-03-09,18.3,Supplier A,464.45,27,Yes
+412,Fuel Filter,SP303,4,9,2024-01-16,1.6,Supplier D,214.8,11,Yes
+413,Transmission Fluid,CL707,37,1,2023-10-18,4.2,Supplier D,372.59,8,No
+414,Fuel Filter,BP505,56,5,2024-09-02,16.2,Supplier D,464.06,23,Yes
+415,Spark Plug,SP303,24,3,2023-09-16,18.4,Supplier C,291.15,25,No
+416,Coolant,T202,56,6,2024-04-07,2.5,Supplier C,22.54,23,Yes
+417,Tire,FF789,74,3,2024-09-13,10.5,Supplier B,354.55,13,Yes
+418,Tire,TF606,96,2,2023-02-27,17.2,Supplier B,274.24,19,Yes
+419,Hydraulic Hose,SP303,3,7,2023-06-27,2.4,Supplier B,311.25,17,Yes
+420,Tire,TF606,48,5,2023-10-02,13.4,Supplier E,312.61,2,No
+421,Tire,SP303,19,7,2023-11-27,2.2,Supplier B,486.59,13,No
+422,Coolant,OF123,58,8,2024-06-18,14.1,Supplier B,295.43,9,No
+423,Air Filter,TF606,70,1,2024-08-05,7.4,Supplier B,275.52,12,No
+424,Fuel Filter,HH101,32,3,2023-08-14,17.5,Supplier C,292.54,20,No
+425,Oil Filter,AF456,97,2,2024-05-16,2.0,Supplier D,236.02,28,Yes
+426,Coolant,BP505,33,9,2024-08-02,6.2,Supplier C,180.41,18,No
+427,Battery,OF123,7,6,2023-10-19,2.7,Supplier C,433.61,1,No
+428,Spark Plug,FF789,25,6,2024-01-22,15.4,Supplier A,71.3,13,No
+429,Transmission Fluid,BT404,95,1,2023-02-10,19.5,Supplier A,393.01,24,Yes
+430,Spark Plug,TF606,56,4,2023-10-24,5.0,Supplier E,74.41,29,No
+431,Fuel Filter,CL707,75,9,2023-02-27,6.8,Supplier C,15.29,17,No
+432,Spark Plug,AF456,79,2,2023-12-17,3.1,Supplier C,392.52,17,No
+433,Tire,SP303,47,4,2023-10-21,14.8,Supplier B,317.48,1,Yes
+434,Fuel Filter,SP303,77,6,2024-04-27,2.0,Supplier C,226.72,14,No
+435,Fuel Filter,SP303,91,8,2023-09-28,1.0,Supplier E,262.91,15,Yes
+436,Spark Plug,AF456,19,3,2023-05-26,18.8,Supplier D,279.66,14,Yes
+437,Hydraulic Hose,FF789,35,7,2023-09-11,5.3,Supplier B,330.93,12,Yes
+438,Hydraulic Hose,BT404,99,6,2023-11-19,7.7,Supplier E,173.17,9,No
+439,Brake Pad,BT404,58,9,2024-05-17,10.4,Supplier D,138.69,11,Yes
+440,Brake Pad,OF123,14,1,2024-08-01,16.4,Supplier C,260.93,7,No
+441,Oil Filter,TF606,53,4,2023-10-15,3.2,Supplier A,205.53,15,Yes
+442,Oil Filter,SP303,50,3,2024-08-14,4.1,Supplier E,320.77,8,Yes
+443,Fuel Filter,TF606,61,4,2023-11-22,14.2,Supplier E,232.55,4,No
+444,Air Filter,FF789,70,5,2024-03-11,11.6,Supplier B,417.85,23,Yes
+445,Hydraulic Hose,SP303,5,2,2024-09-25,6.8,Supplier B,131.56,21,No
+446,Brake Pad,CL707,42,8,2023-04-24,3.4,Supplier C,103.19,26,Yes
+447,Air Filter,TF606,6,2,2023-08-06,3.1,Supplier C,283.2,27,No
+448,Oil Filter,AF456,30,7,2023-08-24,2.2,Supplier D,335.0,9,Yes
+449,Spark Plug,OF123,84,8,2024-05-15,13.7,Supplier B,20.37,8,Yes
+450,Oil Filter,FF789,50,7,2023-03-19,17.7,Supplier D,51.12,8,No
+451,Transmission Fluid,HH101,8,9,2023-06-23,6.9,Supplier A,359.04,17,No
+452,Oil Filter,T202,78,7,2024-03-30,19.8,Supplier C,499.08,19,Yes
+453,Spark Plug,FF789,62,4,2024-02-15,16.2,Supplier D,467.76,9,No
+454,Oil Filter,TF606,95,3,2023-04-15,19.7,Supplier D,399.74,21,No
+455,Hydraulic Hose,T202,77,3,2024-05-16,11.2,Supplier C,284.15,11,No
+456,Battery,T202,17,4,2023-06-29,6.5,Supplier B,68.95,21,Yes
+457,Oil Filter,SP303,74,4,2024-08-21,6.4,Supplier E,283.41,8,No
+458,Fuel Filter,OF123,97,7,2023-01-12,6.3,Supplier D,97.94,22,No
+459,Air Filter,SP303,0,3,2024-06-17,10.3,Supplier B,287.38,9,No
+460,Transmission Fluid,AF456,68,6,2024-07-17,15.3,Supplier B,64.36,26,No
+461,Hydraulic Hose,T202,68,4,2023-11-12,6.6,Supplier A,276.15,21,Yes
+462,Spark Plug,TF606,47,7,2023-01-20,8.2,Supplier C,451.05,16,Yes
+463,Hydraulic Hose,OF123,68,7,2023-03-10,4.6,Supplier E,118.57,24,No
+464,Battery,TF606,85,4,2023-12-01,0.7,Supplier A,363.84,13,No
+465,Transmission Fluid,CL707,47,3,2023-06-29,7.4,Supplier B,249.5,15,No
+466,Brake Pad,T202,48,8,2024-09-06,3.5,Supplier C,482.47,10,No
+467,Transmission Fluid,OF123,82,9,2023-03-28,7.9,Supplier C,415.48,19,Yes
+468,Spark Plug,SP303,36,2,2024-08-09,5.1,Supplier E,198.24,26,Yes
+469,Air Filter,BT404,96,1,2023-10-11,3.7,Supplier B,215.21,6,Yes
+470,Oil Filter,HH101,69,2,2024-06-15,7.8,Supplier C,395.05,17,Yes
+471,Tire,HH101,94,7,2023-08-05,2.0,Supplier D,457.84,6,No
+472,Spark Plug,OF123,99,5,2023-06-13,7.6,Supplier C,491.33,11,Yes
+473,Air Filter,CL707,10,7,2023-09-24,4.2,Supplier C,105.67,14,No
+474,Transmission Fluid,TF606,53,3,2023-03-03,19.0,Supplier C,346.7,11,Yes
+475,Air Filter,HH101,78,5,2024-07-12,19.8,Supplier D,226.25,19,No
+476,Fuel Filter,SP303,64,8,2024-02-19,10.2,Supplier D,433.59,20,Yes
+477,Oil Filter,BP505,21,5,2023-10-01,17.9,Supplier D,434.03,15,No
+478,Brake Pad,T202,91,9,2023-06-15,19.4,Supplier E,426.8,13,Yes
+479,Fuel Filter,BT404,31,7,2023-10-04,13.4,Supplier D,418.84,1,Yes
+480,Tire,OF123,54,4,2023-06-22,8.8,Supplier B,190.51,24,No
+481,Brake Pad,AF456,62,8,2023-08-03,18.5,Supplier A,432.24,8,Yes
+482,Coolant,FF789,70,1,2023-12-29,18.4,Supplier E,105.48,3,No
+483,Tire,AF456,95,5,2024-08-04,11.5,Supplier B,450.41,21,No
+484,Coolant,FF789,47,5,2023-03-10,6.5,Supplier B,371.82,16,No
+485,Spark Plug,FF789,43,5,2023-12-31,18.9,Supplier E,371.1,24,No
+486,Tire,OF123,12,2,2023-11-08,5.8,Supplier B,43.58,22,No
+487,Air Filter,OF123,29,7,2024-01-20,20.0,Supplier C,16.58,20,Yes
+488,Spark Plug,SP303,15,9,2024-01-20,1.8,Supplier B,484.92,15,Yes
+489,Fuel Filter,BT404,33,8,2024-08-07,19.6,Supplier A,467.14,23,No
+490,Spark Plug,HH101,18,5,2023-08-13,20.0,Supplier E,335.23,18,Yes
+491,Battery,CL707,14,2,2023-06-27,11.8,Supplier D,448.55,28,No
+492,Tire,TF606,80,5,2024-09-25,6.7,Supplier B,395.56,17,Yes
+493,Oil Filter,OF123,34,3,2024-05-19,11.3,Supplier D,368.95,23,No
+494,Air Filter,AF456,81,7,2024-06-27,3.9,Supplier E,112.15,23,No
+495,Tire,BT404,97,4,2024-06-21,2.5,Supplier C,76.1,4,No
+496,Transmission Fluid,T202,27,9,2023-06-05,17.9,Supplier B,160.91,14,Yes
+497,Brake Pad,OF123,20,5,2023-03-02,6.6,Supplier B,252.68,22,Yes
+498,Brake Pad,BT404,40,8,2023-08-20,11.7,Supplier D,402.3,15,Yes
+499,Oil Filter,HH101,54,1,2023-09-20,12.5,Supplier A,337.91,1,No
+500,Battery,OF123,33,5,2024-09-10,4.2,Supplier E,18.31,22,No
+501,Tire,BP505,98,8,2024-09-13,1.6,Supplier E,406.83,6,Yes
+502,Fuel Filter,BT404,93,7,2023-04-04,18.3,Supplier B,456.34,20,Yes
+503,Fuel Filter,AF456,55,8,2023-09-09,9.7,Supplier C,135.43,16,No
+504,Coolant,HH101,13,5,2024-08-06,7.7,Supplier C,402.21,26,Yes
+505,Oil Filter,OF123,20,3,2024-07-01,4.1,Supplier A,472.3,28,No
+506,Battery,SP303,93,9,2024-08-27,14.7,Supplier D,315.68,1,Yes
+507,Hydraulic Hose,BT404,50,1,2024-04-29,9.7,Supplier D,268.87,16,Yes
+508,Brake Pad,TF606,99,5,2024-03-30,2.4,Supplier C,462.13,11,Yes
+509,Spark Plug,AF456,26,3,2024-05-02,4.9,Supplier E,481.89,10,Yes
+510,Fuel Filter,BP505,30,6,2024-03-09,9.0,Supplier D,320.41,17,Yes
+511,Oil Filter,TF606,64,3,2024-02-12,15.0,Supplier C,132.41,24,Yes
+512,Tire,BP505,56,3,2024-06-11,7.9,Supplier B,68.1,12,Yes
+513,Coolant,BT404,50,8,2023-04-22,14.4,Supplier C,212.64,28,No
+514,Battery,CL707,41,3,2024-06-27,19.3,Supplier A,170.23,11,Yes
+515,Fuel Filter,AF456,92,2,2023-11-14,18.0,Supplier C,451.95,28,No
+516,Air Filter,TF606,27,6,2023-04-05,18.1,Supplier C,430.06,19,Yes
+517,Coolant,FF789,94,2,2023-05-31,10.2,Supplier E,441.33,11,No
+518,Tire,CL707,9,1,2023-10-14,3.8,Supplier E,15.95,1,No
+519,Hydraulic Hose,AF456,25,2,2023-09-03,17.3,Supplier A,174.59,2,Yes
+520,Oil Filter,FF789,41,9,2024-09-01,17.5,Supplier E,293.6,12,Yes
+521,Brake Pad,OF123,63,4,2024-03-27,3.2,Supplier B,71.75,1,No
+522,Brake Pad,SP303,37,3,2024-03-06,2.8,Supplier A,252.49,21,No
+523,Coolant,AF456,21,8,2024-03-10,13.6,Supplier C,102.95,5,No
+524,Air Filter,TF606,14,1,2024-08-01,18.7,Supplier B,41.45,13,No
+525,Brake Pad,T202,99,4,2024-05-05,7.7,Supplier E,260.47,21,Yes
+526,Oil Filter,TF606,6,4,2023-07-29,17.9,Supplier B,145.19,9,No
+527,Transmission Fluid,FF789,36,4,2023-07-29,15.5,Supplier A,344.93,14,Yes
+528,Spark Plug,FF789,11,2,2024-02-17,11.4,Supplier E,292.0,4,Yes
+529,Spark Plug,HH101,20,1,2024-08-14,9.8,Supplier B,233.9,14,Yes
+530,Hydraulic Hose,SP303,46,3,2024-08-09,6.5,Supplier E,486.35,4,Yes
+531,Battery,BT404,31,3,2023-01-31,9.1,Supplier B,364.8,5,No
+532,Tire,BP505,65,9,2023-02-07,16.4,Supplier A,80.66,14,Yes
+533,Coolant,T202,89,3,2023-12-21,16.7,Supplier C,418.01,28,No
+534,Hydraulic Hose,BP505,82,9,2024-06-22,1.6,Supplier D,256.29,6,Yes
+535,Tire,BP505,18,2,2023-02-25,9.0,Supplier A,162.31,24,No
+536,Coolant,SP303,90,4,2024-01-13,15.1,Supplier D,385.13,11,No
+537,Oil Filter,SP303,94,6,2024-03-12,6.8,Supplier C,200.28,26,No
+538,Oil Filter,TF606,25,3,2024-06-26,11.8,Supplier E,429.8,22,No
+539,Oil Filter,OF123,58,6,2023-12-20,16.9,Supplier A,416.53,24,No
+540,Hydraulic Hose,AF456,36,3,2024-06-24,7.7,Supplier C,385.48,8,Yes
+541,Spark Plug,HH101,18,7,2024-04-22,18.8,Supplier D,111.05,29,Yes
+542,Brake Pad,BT404,84,6,2024-01-12,12.9,Supplier D,181.45,26,No
+543,Coolant,HH101,83,8,2023-10-23,8.8,Supplier A,37.79,2,No
+544,Transmission Fluid,SP303,47,9,2023-03-03,5.2,Supplier E,70.4,2,Yes
+545,Hydraulic Hose,HH101,60,9,2023-03-11,14.9,Supplier E,44.81,19,No
+546,Tire,T202,86,5,2023-11-16,18.9,Supplier E,213.08,15,No
+547,Fuel Filter,T202,91,7,2023-06-23,16.9,Supplier C,169.58,20,No
+548,Battery,T202,0,6,2024-06-17,16.1,Supplier A,114.3,20,No
+549,Air Filter,OF123,46,5,2024-04-12,0.8,Supplier A,313.72,7,Yes
+550,Air Filter,BT404,44,2,2024-08-23,10.2,Supplier A,470.93,24,Yes
+551,Fuel Filter,FF789,40,5,2023-04-17,0.9,Supplier C,38.17,14,Yes
+552,Battery,HH101,46,7,2024-09-09,14.7,Supplier D,478.15,14,Yes
+553,Brake Pad,BT404,85,8,2024-02-08,5.7,Supplier D,243.6,9,Yes
+554,Spark Plug,AF456,21,1,2023-12-15,9.6,Supplier A,291.97,21,No
+555,Spark Plug,BT404,51,8,2023-10-01,17.1,Supplier E,239.28,2,No
+556,Oil Filter,CL707,11,8,2023-10-08,18.2,Supplier A,449.74,20,No
+557,Air Filter,AF456,68,7,2024-04-20,17.9,Supplier B,196.61,5,No
+558,Hydraulic Hose,AF456,30,1,2023-07-12,19.6,Supplier E,431.64,8,No
+559,Battery,BP505,14,9,2024-02-06,15.6,Supplier E,315.17,8,Yes
+560,Oil Filter,FF789,69,8,2024-07-28,19.7,Supplier C,48.42,19,No
+561,Spark Plug,AF456,11,6,2023-09-24,1.6,Supplier A,34.09,23,No
+562,Spark Plug,OF123,18,5,2024-08-02,1.9,Supplier E,488.11,13,No
+563,Hydraulic Hose,AF456,25,9,2023-09-26,5.7,Supplier C,466.98,24,No
+564,Spark Plug,AF456,58,4,2024-01-11,10.7,Supplier D,353.15,17,Yes
+565,Spark Plug,CL707,60,8,2023-11-07,14.8,Supplier A,203.56,27,Yes
+566,Air Filter,TF606,16,3,2023-03-14,1.7,Supplier A,39.07,26,No
+567,Fuel Filter,CL707,44,2,2023-06-04,4.5,Supplier A,69.55,3,Yes
+568,Hydraulic Hose,AF456,20,6,2024-03-25,0.6,Supplier B,34.52,24,No
+569,Brake Pad,BP505,5,4,2024-02-26,2.4,Supplier A,33.25,12,Yes
+570,Fuel Filter,TF606,45,8,2023-04-05,6.2,Supplier A,303.7,22,Yes
+571,Spark Plug,TF606,92,7,2023-05-25,13.3,Supplier E,80.36,6,Yes
+572,Hydraulic Hose,BT404,73,7,2024-02-27,8.7,Supplier D,41.69,19,Yes
+573,Hydraulic Hose,SP303,49,4,2023-03-28,9.3,Supplier D,306.05,1,No
+574,Air Filter,TF606,61,2,2024-04-03,13.1,Supplier A,396.9,11,Yes
+575,Tire,HH101,77,3,2023-05-26,6.3,Supplier A,200.14,6,No
+576,Air Filter,T202,78,2,2024-02-19,7.6,Supplier B,175.67,16,Yes
+577,Battery,TF606,79,9,2024-08-28,11.9,Supplier C,246.65,18,No
+578,Brake Pad,SP303,83,4,2023-06-20,6.2,Supplier A,253.18,11,No
+579,Fuel Filter,SP303,62,3,2024-04-30,8.7,Supplier E,117.45,10,No
+580,Hydraulic Hose,CL707,19,9,2023-05-07,0.7,Supplier D,257.75,18,Yes
+581,Spark Plug,AF456,9,8,2023-02-23,2.6,Supplier E,321.05,8,Yes
+582,Tire,TF606,25,9,2024-04-10,5.1,Supplier E,422.99,19,No
+583,Hydraulic Hose,AF456,61,3,2024-06-10,7.4,Supplier D,221.7,18,No
+584,Transmission Fluid,FF789,33,1,2024-06-14,19.2,Supplier A,281.26,27,No
+585,Coolant,AF456,89,8,2024-08-20,3.9,Supplier A,25.4,10,Yes
+586,Fuel Filter,T202,97,5,2023-02-14,13.8,Supplier D,266.8,6,No
+587,Tire,TF606,10,5,2023-09-18,4.3,Supplier E,259.3,23,No
+588,Air Filter,BP505,64,7,2024-04-08,16.3,Supplier C,430.9,9,Yes
+589,Spark Plug,TF606,48,1,2024-08-27,2.1,Supplier C,424.01,14,No
+590,Coolant,SP303,96,4,2023-08-17,5.7,Supplier E,493.91,22,No
+591,Brake Pad,TF606,14,5,2023-08-27,14.1,Supplier A,298.22,9,No
+592,Spark Plug,HH101,37,4,2023-12-07,11.1,Supplier D,182.28,25,Yes
+593,Tire,T202,79,4,2023-07-15,15.6,Supplier B,261.47,21,No
+594,Hydraulic Hose,CL707,5,7,2023-03-26,4.9,Supplier D,389.04,22,Yes
+595,Oil Filter,OF123,4,3,2023-11-04,16.7,Supplier D,297.19,29,No
+596,Tire,BT404,82,5,2023-08-01,7.3,Supplier E,366.02,6,Yes
+597,Brake Pad,AF456,73,5,2023-07-25,18.6,Supplier E,111.63,24,Yes
+598,Tire,BP505,1,9,2023-07-17,18.3,Supplier C,55.44,6,No
+599,Hydraulic Hose,AF456,4,8,2023-05-04,15.3,Supplier B,316.57,2,Yes
+600,Air Filter,T202,58,6,2023-04-17,10.3,Supplier C,326.63,1,No
+601,Fuel Filter,FF789,91,6,2023-05-03,5.3,Supplier D,424.91,5,No
+602,Fuel Filter,BP505,45,3,2023-07-04,11.0,Supplier E,136.11,11,No
+603,Battery,CL707,27,3,2023-07-03,19.6,Supplier B,63.47,13,No
+604,Brake Pad,TF606,21,9,2024-06-30,3.8,Supplier C,83.68,2,Yes
+605,Spark Plug,AF456,67,3,2023-04-20,17.5,Supplier E,10.52,19,No
+606,Battery,TF606,86,1,2024-08-28,1.2,Supplier E,145.16,17,No
+607,Hydraulic Hose,HH101,54,6,2023-01-08,18.8,Supplier B,459.25,29,No
+608,Transmission Fluid,SP303,19,8,2023-02-05,6.1,Supplier D,456.18,12,Yes
+609,Tire,TF606,60,3,2023-09-02,11.6,Supplier D,481.02,8,No
+610,Oil Filter,T202,80,5,2023-11-29,19.2,Supplier D,128.81,18,Yes
+611,Hydraulic Hose,AF456,8,5,2024-03-26,2.6,Supplier E,265.52,26,No
+612,Hydraulic Hose,BT404,57,1,2024-08-30,16.0,Supplier D,57.02,1,No
+613,Spark Plug,OF123,90,5,2024-06-27,5.5,Supplier B,142.85,8,No
+614,Brake Pad,BT404,50,3,2023-05-16,10.4,Supplier A,348.79,11,Yes
+615,Coolant,BP505,81,8,2023-01-22,4.7,Supplier D,82.99,25,No
+616,Fuel Filter,HH101,31,3,2023-10-29,1.5,Supplier B,454.76,9,No
+617,Tire,HH101,63,1,2023-09-12,15.0,Supplier D,295.08,27,No
+618,Oil Filter,T202,52,2,2023-11-19,12.9,Supplier D,145.84,12,No
+619,Transmission Fluid,BP505,12,1,2023-12-18,0.6,Supplier A,22.28,17,Yes
+620,Battery,FF789,10,1,2024-08-02,3.7,Supplier D,328.81,29,No
+621,Brake Pad,TF606,66,9,2023-09-30,9.2,Supplier D,177.95,19,Yes
+622,Air Filter,SP303,7,3,2024-06-01,15.7,Supplier C,480.04,13,No
+623,Fuel Filter,TF606,77,3,2023-11-30,16.7,Supplier D,257.53,20,No
+624,Brake Pad,HH101,17,4,2024-04-08,13.4,Supplier D,256.62,27,Yes
+625,Spark Plug,HH101,78,3,2024-02-23,2.3,Supplier E,37.04,7,No
+626,Oil Filter,SP303,3,3,2024-06-26,9.7,Supplier C,40.0,5,Yes
+627,Spark Plug,FF789,62,9,2024-08-21,1.6,Supplier E,51.12,9,No
+628,Battery,OF123,37,1,2024-03-11,10.7,Supplier C,382.77,9,No
+629,Battery,FF789,70,5,2024-03-30,4.1,Supplier D,56.87,18,Yes
+630,Tire,AF456,46,1,2023-12-29,5.0,Supplier B,281.53,10,Yes
+631,Air Filter,T202,94,9,2024-06-20,11.3,Supplier E,365.2,13,Yes
+632,Transmission Fluid,HH101,32,5,2023-04-25,4.4,Supplier B,265.09,7,Yes
+633,Oil Filter,CL707,31,5,2024-02-25,0.6,Supplier D,444.17,9,Yes
+634,Brake Pad,HH101,86,7,2023-05-11,12.1,Supplier E,66.51,11,Yes
+635,Oil Filter,CL707,51,3,2023-10-20,19.2,Supplier E,337.61,20,No
+636,Oil Filter,FF789,56,3,2023-07-25,12.9,Supplier B,47.64,11,No
+637,Coolant,BP505,20,9,2023-04-01,10.7,Supplier B,89.89,22,No
+638,Coolant,HH101,25,2,2023-08-29,2.3,Supplier B,90.34,5,No
+639,Coolant,BP505,80,9,2023-03-11,13.1,Supplier A,21.37,27,No
+640,Spark Plug,CL707,81,4,2023-04-10,3.3,Supplier C,378.79,18,No
+641,Tire,TF606,46,9,2023-01-11,6.7,Supplier C,352.9,1,No
+642,Oil Filter,BP505,23,9,2024-01-25,16.1,Supplier D,416.14,17,No
+643,Air Filter,SP303,83,8,2023-09-14,9.5,Supplier B,273.81,28,No
+644,Fuel Filter,HH101,22,8,2023-07-01,4.8,Supplier C,469.61,5,Yes
+645,Transmission Fluid,BP505,95,9,2024-04-08,19.3,Supplier B,65.01,5,No
+646,Coolant,BT404,48,6,2023-07-06,6.4,Supplier B,54.4,17,Yes
+647,Oil Filter,BP505,88,8,2024-06-19,19.1,Supplier C,144.46,13,Yes
+648,Brake Pad,BT404,36,9,2023-05-25,14.9,Supplier A,237.55,21,No
+649,Brake Pad,CL707,56,2,2024-07-24,6.9,Supplier D,420.66,21,No
+650,Oil Filter,BT404,52,6,2023-07-22,17.3,Supplier C,387.19,19,No
+651,Air Filter,TF606,21,8,2024-01-17,19.4,Supplier B,242.8,23,Yes
+652,Oil Filter,BP505,28,2,2024-03-02,8.9,Supplier A,271.95,17,No
+653,Air Filter,AF456,44,3,2023-08-23,5.3,Supplier A,66.94,10,No
+654,Battery,CL707,22,1,2023-03-17,16.1,Supplier D,217.97,2,Yes
+655,Fuel Filter,T202,26,3,2023-04-10,16.1,Supplier B,194.62,29,Yes
+656,Battery,CL707,90,1,2024-05-21,16.5,Supplier A,341.08,3,Yes
+657,Coolant,CL707,18,5,2023-02-14,4.2,Supplier C,323.14,19,No
+658,Brake Pad,CL707,3,9,2023-12-08,0.7,Supplier B,168.48,10,No
+659,Tire,FF789,53,8,2024-07-27,14.6,Supplier E,380.55,8,Yes
+660,Battery,TF606,84,2,2023-08-16,6.3,Supplier A,491.54,15,No
+661,Spark Plug,BT404,92,1,2023-02-19,11.8,Supplier E,282.77,21,No
+662,Transmission Fluid,T202,73,8,2023-08-18,1.0,Supplier C,288.08,4,No
+663,Air Filter,OF123,73,9,2024-09-19,6.8,Supplier A,332.55,11,Yes
+664,Fuel Filter,FF789,28,2,2024-06-03,3.3,Supplier D,348.46,20,No
+665,Hydraulic Hose,T202,65,9,2023-07-31,12.3,Supplier C,382.58,20,No
+666,Fuel Filter,TF606,96,6,2023-04-02,19.3,Supplier C,191.91,13,No
+667,Air Filter,AF456,38,3,2024-09-08,14.7,Supplier C,225.72,14,Yes
+668,Oil Filter,OF123,4,6,2023-02-13,12.0,Supplier E,374.19,2,Yes
+669,Oil Filter,BP505,26,8,2023-03-02,15.0,Supplier D,202.3,19,No
+670,Air Filter,HH101,69,2,2024-04-16,14.6,Supplier C,65.41,7,No
+671,Coolant,HH101,60,1,2024-02-28,0.9,Supplier C,177.47,13,Yes
+672,Brake Pad,CL707,55,2,2023-03-01,19.4,Supplier A,359.99,23,Yes
+673,Fuel Filter,AF456,88,2,2023-07-07,7.3,Supplier A,388.34,25,Yes
+674,Fuel Filter,CL707,98,6,2024-05-24,3.1,Supplier A,388.22,5,No
+675,Hydraulic Hose,HH101,58,4,2023-08-25,13.5,Supplier A,444.84,7,Yes
+676,Tire,BT404,50,4,2024-09-25,1.7,Supplier B,33.76,15,Yes
+677,Fuel Filter,SP303,50,3,2024-02-04,7.3,Supplier E,476.8,15,Yes
+678,Transmission Fluid,T202,29,8,2023-08-28,5.2,Supplier D,37.51,25,Yes
+679,Battery,HH101,47,7,2023-04-04,11.9,Supplier D,492.55,18,Yes
+680,Air Filter,CL707,24,2,2024-09-25,12.8,Supplier B,407.51,7,Yes
+681,Air Filter,AF456,48,6,2023-10-16,4.4,Supplier D,27.97,5,Yes
+682,Battery,CL707,98,3,2024-07-21,5.0,Supplier A,484.81,25,Yes
+683,Air Filter,BT404,17,1,2023-04-01,10.4,Supplier A,132.9,18,Yes
+684,Coolant,T202,11,3,2023-08-27,2.3,Supplier D,173.38,25,Yes
+685,Tire,TF606,62,4,2024-08-18,18.5,Supplier B,76.94,23,Yes
+686,Fuel Filter,BT404,6,6,2024-05-09,7.4,Supplier A,243.98,26,Yes
+687,Spark Plug,T202,54,9,2023-05-14,9.6,Supplier E,494.35,8,No
+688,Fuel Filter,SP303,24,9,2024-01-09,3.8,Supplier C,186.12,15,Yes
+689,Battery,OF123,7,7,2023-08-07,16.8,Supplier A,189.34,5,Yes
+690,Fuel Filter,T202,30,9,2023-09-10,6.9,Supplier E,177.54,17,No
+691,Spark Plug,BT404,3,8,2023-01-30,1.4,Supplier D,82.76,16,Yes
+692,Tire,BT404,28,1,2023-06-06,2.9,Supplier A,461.4,24,Yes
+693,Fuel Filter,FF789,10,3,2023-08-31,15.2,Supplier A,134.24,15,No
+694,Air Filter,HH101,32,2,2023-09-19,1.7,Supplier B,395.37,26,No
+695,Spark Plug,BT404,40,7,2024-03-17,12.1,Supplier E,330.3,9,Yes
+696,Battery,T202,60,7,2023-10-28,5.2,Supplier E,203.57,3,Yes
+697,Transmission Fluid,SP303,37,5,2024-02-23,18.9,Supplier C,203.06,3,No
+698,Spark Plug,FF789,39,6,2024-02-09,15.4,Supplier E,455.08,9,Yes
+699,Transmission Fluid,SP303,69,2,2023-01-10,1.4,Supplier D,155.13,13,Yes
+700,Transmission Fluid,CL707,72,9,2024-09-08,6.8,Supplier D,437.35,26,No
+701,Coolant,TF606,54,9,2024-06-03,12.7,Supplier A,400.1,28,Yes
+702,Tire,CL707,12,9,2023-08-02,10.2,Supplier E,115.77,25,Yes
+703,Brake Pad,CL707,81,9,2024-04-28,9.2,Supplier A,487.99,3,No
+704,Spark Plug,HH101,6,8,2024-04-12,3.3,Supplier C,161.48,18,Yes
+705,Battery,FF789,78,1,2024-02-16,6.8,Supplier E,68.61,10,No
+706,Fuel Filter,FF789,87,6,2024-06-22,1.4,Supplier B,495.37,26,No
+707,Fuel Filter,OF123,22,2,2023-02-23,9.7,Supplier D,161.77,28,No
+708,Tire,TF606,50,8,2024-04-14,4.7,Supplier C,370.36,26,Yes
+709,Battery,BP505,10,3,2024-01-26,10.7,Supplier D,300.55,13,No
+710,Brake Pad,SP303,93,3,2023-07-13,8.4,Supplier B,447.45,10,Yes
+711,Battery,SP303,66,6,2023-05-03,3.0,Supplier D,322.96,19,Yes
+712,Air Filter,SP303,93,4,2023-12-28,4.9,Supplier B,263.6,21,No
+713,Tire,CL707,13,8,2023-12-22,11.6,Supplier A,295.63,17,Yes
+714,Battery,BT404,21,1,2024-01-12,16.3,Supplier D,153.73,20,No
+715,Transmission Fluid,AF456,17,8,2023-08-28,4.6,Supplier A,50.3,3,Yes
+716,Brake Pad,T202,33,1,2023-02-28,3.7,Supplier C,174.61,15,No
+717,Transmission Fluid,TF606,66,8,2023-05-18,3.8,Supplier B,139.33,29,No
+718,Oil Filter,CL707,34,7,2024-01-15,4.6,Supplier A,304.18,22,Yes
+719,Brake Pad,CL707,63,5,2023-10-26,17.0,Supplier B,274.33,19,Yes
+720,Fuel Filter,T202,41,3,2024-08-20,9.4,Supplier D,216.58,5,No
+721,Air Filter,AF456,19,1,2023-11-15,5.3,Supplier D,132.06,8,Yes
+722,Fuel Filter,CL707,77,6,2023-09-04,5.6,Supplier C,93.83,5,Yes
+723,Oil Filter,TF606,1,4,2023-12-01,4.1,Supplier E,496.36,2,No
+724,Spark Plug,BP505,29,4,2024-03-08,2.5,Supplier B,155.3,9,Yes
+725,Oil Filter,HH101,87,3,2024-02-10,2.1,Supplier E,62.73,20,Yes
+726,Transmission Fluid,OF123,94,1,2023-02-20,9.1,Supplier B,150.57,19,No
+727,Battery,HH101,77,3,2023-04-19,19.0,Supplier C,196.79,9,No
+728,Oil Filter,TF606,69,2,2024-03-21,15.6,Supplier B,148.7,22,Yes
+729,Brake Pad,OF123,22,6,2023-01-30,9.2,Supplier B,350.26,6,No
+730,Spark Plug,BP505,14,2,2023-02-14,16.9,Supplier C,299.41,15,Yes
+731,Brake Pad,BT404,82,1,2023-12-12,0.9,Supplier C,437.8,28,No
+732,Oil Filter,FF789,48,9,2023-04-17,2.3,Supplier A,145.23,11,No
+733,Oil Filter,HH101,12,3,2023-12-30,16.7,Supplier B,407.98,20,Yes
+734,Fuel Filter,BT404,20,7,2024-02-20,10.7,Supplier A,124.49,19,No
+735,Oil Filter,AF456,27,7,2024-06-05,9.1,Supplier A,305.07,19,Yes
+736,Hydraulic Hose,BT404,85,9,2023-10-11,4.0,Supplier D,441.26,17,No
+737,Tire,TF606,77,7,2024-02-15,12.5,Supplier B,487.6,23,Yes
+738,Air Filter,BP505,76,1,2023-02-28,3.3,Supplier D,80.8,24,Yes
+739,Coolant,BT404,6,1,2023-03-08,5.9,Supplier D,359.86,25,Yes
+740,Coolant,T202,17,6,2023-10-08,8.5,Supplier E,192.12,8,Yes
+741,Spark Plug,CL707,63,6,2024-03-03,13.9,Supplier A,197.72,25,Yes
+742,Transmission Fluid,T202,63,2,2024-07-21,1.0,Supplier D,193.51,14,Yes
+743,Coolant,BT404,38,3,2024-06-25,14.0,Supplier A,278.49,26,No
+744,Hydraulic Hose,T202,32,5,2024-04-02,13.6,Supplier C,285.44,13,No
+745,Coolant,SP303,53,1,2024-06-18,15.9,Supplier C,150.79,10,Yes
+746,Hydraulic Hose,BT404,66,4,2023-03-22,17.0,Supplier E,399.14,27,No
+747,Brake Pad,AF456,24,2,2023-11-26,14.1,Supplier C,421.26,29,No
+748,Spark Plug,BT404,60,8,2023-11-24,16.7,Supplier D,386.07,13,No
+749,Air Filter,FF789,9,7,2023-02-19,6.1,Supplier B,446.88,23,Yes
+750,Brake Pad,HH101,95,5,2024-09-09,3.6,Supplier B,429.09,8,No
+751,Spark Plug,FF789,71,5,2024-05-18,0.8,Supplier C,98.99,10,No
+752,Hydraulic Hose,CL707,33,5,2023-08-03,18.7,Supplier B,135.31,13,No
+753,Tire,CL707,88,5,2023-11-20,18.6,Supplier C,220.11,6,Yes
+754,Fuel Filter,AF456,37,9,2024-07-16,17.4,Supplier D,448.59,29,Yes
+755,Battery,FF789,87,8,2023-03-15,16.2,Supplier C,175.05,1,Yes
+756,Fuel Filter,TF606,93,9,2023-05-30,11.4,Supplier B,480.64,18,No
+757,Tire,TF606,78,3,2023-07-26,9.0,Supplier D,407.08,14,Yes
+758,Air Filter,OF123,96,2,2023-12-02,15.8,Supplier C,242.28,6,Yes
+759,Oil Filter,OF123,6,7,2024-02-20,17.5,Supplier D,304.2,2,No
+760,Spark Plug,CL707,75,6,2024-06-01,10.8,Supplier B,314.07,6,Yes
+761,Brake Pad,TF606,37,2,2023-06-10,14.9,Supplier C,241.18,3,Yes
+762,Brake Pad,CL707,49,7,2024-02-13,7.7,Supplier E,476.47,12,No
+763,Oil Filter,HH101,50,4,2023-09-22,14.3,Supplier C,440.07,29,Yes
+764,Spark Plug,BP505,66,7,2024-05-23,13.2,Supplier E,77.69,2,Yes
+765,Spark Plug,AF456,74,3,2023-07-10,14.5,Supplier A,71.84,24,Yes
+766,Spark Plug,AF456,61,9,2023-08-10,15.7,Supplier E,116.09,22,Yes
+767,Coolant,T202,65,8,2024-07-12,1.8,Supplier D,14.51,10,No
+768,Brake Pad,HH101,3,1,2023-08-30,6.0,Supplier A,102.8,19,Yes
+769,Coolant,BT404,81,9,2023-02-08,8.2,Supplier E,489.07,7,Yes
+770,Tire,T202,73,7,2024-03-19,19.9,Supplier B,346.53,19,Yes
+771,Hydraulic Hose,SP303,66,9,2024-02-05,3.6,Supplier E,29.7,11,Yes
+772,Tire,BT404,56,3,2024-07-25,0.8,Supplier A,419.89,18,No
+773,Tire,BT404,88,3,2024-09-26,19.1,Supplier C,128.62,17,Yes
+774,Hydraulic Hose,T202,52,1,2023-09-02,10.9,Supplier B,457.13,15,Yes
+775,Battery,FF789,81,5,2023-07-13,3.8,Supplier E,234.55,22,Yes
+776,Spark Plug,BP505,2,6,2024-06-12,17.9,Supplier C,125.62,14,Yes
+777,Transmission Fluid,AF456,73,7,2024-09-16,5.0,Supplier D,106.36,2,No
+778,Oil Filter,CL707,90,2,2023-10-04,17.9,Supplier C,241.08,29,No
+779,Hydraulic Hose,OF123,82,3,2023-09-04,1.4,Supplier B,392.48,24,Yes
+780,Transmission Fluid,HH101,12,9,2024-03-02,11.3,Supplier D,439.65,12,No
+781,Hydraulic Hose,AF456,82,4,2023-07-17,9.5,Supplier B,480.35,13,Yes
+782,Battery,OF123,94,2,2024-02-01,3.0,Supplier C,49.01,22,Yes
+783,Transmission Fluid,CL707,65,6,2023-02-13,1.5,Supplier B,257.89,20,Yes
+784,Coolant,CL707,74,6,2024-04-22,13.1,Supplier B,255.05,10,Yes
+785,Transmission Fluid,BP505,64,1,2023-03-12,9.6,Supplier D,27.17,1,No
+786,Spark Plug,FF789,62,8,2024-05-11,1.5,Supplier E,50.12,13,Yes
+787,Fuel Filter,TF606,57,1,2023-04-15,17.7,Supplier A,256.62,12,No
+788,Air Filter,AF456,38,5,2023-04-04,8.2,Supplier B,328.56,14,No
+789,Brake Pad,T202,3,6,2023-03-26,2.1,Supplier E,121.51,7,No
+790,Tire,CL707,50,4,2023-12-03,7.8,Supplier A,397.3,15,Yes
+791,Tire,SP303,68,1,2023-06-27,7.7,Supplier A,399.93,29,No
+792,Transmission Fluid,SP303,71,5,2024-03-12,1.9,Supplier C,330.45,2,No
+793,Battery,FF789,50,8,2023-09-08,1.4,Supplier C,332.02,26,Yes
+794,Air Filter,TF606,83,7,2024-05-02,3.7,Supplier D,440.52,21,Yes
+795,Coolant,FF789,8,7,2024-04-07,7.5,Supplier E,313.95,22,No
+796,Air Filter,SP303,99,6,2024-08-25,1.9,Supplier E,360.07,1,No
+797,Brake Pad,CL707,82,3,2024-03-15,13.1,Supplier B,281.26,28,Yes
+798,Oil Filter,OF123,24,1,2024-07-01,10.4,Supplier C,351.68,11,Yes
+799,Fuel Filter,OF123,22,6,2024-01-31,11.9,Supplier E,461.88,22,No
+800,Oil Filter,CL707,16,6,2023-11-25,3.0,Supplier C,67.89,13,Yes
+801,Hydraulic Hose,OF123,58,7,2024-08-30,15.0,Supplier C,481.92,11,No
+802,Spark Plug,TF606,92,1,2023-08-05,15.7,Supplier E,367.77,12,No
+803,Hydraulic Hose,HH101,2,3,2023-04-03,8.7,Supplier B,153.41,2,No
+804,Tire,T202,54,5,2024-03-16,6.5,Supplier A,35.76,21,No
+805,Transmission Fluid,HH101,22,9,2024-04-25,3.7,Supplier B,61.49,4,No
+806,Fuel Filter,HH101,76,7,2023-08-01,19.4,Supplier D,201.41,25,No
+807,Tire,T202,54,4,2023-06-24,13.7,Supplier E,168.64,9,Yes
+808,Tire,TF606,12,2,2023-12-28,1.4,Supplier E,363.87,1,No
+809,Air Filter,AF456,26,4,2023-09-15,2.3,Supplier E,242.12,10,No
+810,Coolant,TF606,91,9,2023-06-11,12.8,Supplier E,341.3,6,Yes
+811,Battery,BP505,25,8,2024-07-04,7.6,Supplier B,328.22,22,Yes
+812,Battery,T202,48,4,2024-05-13,9.7,Supplier E,170.52,15,No
+813,Fuel Filter,TF606,79,9,2024-09-30,6.8,Supplier C,335.14,8,Yes
+814,Tire,HH101,20,6,2024-09-25,7.6,Supplier B,387.17,23,No
+815,Hydraulic Hose,BP505,12,7,2023-12-25,11.1,Supplier D,411.78,6,No
+816,Battery,OF123,11,2,2023-09-06,15.8,Supplier A,184.22,25,No
+817,Spark Plug,TF606,90,3,2023-11-25,8.3,Supplier B,40.18,15,Yes
+818,Transmission Fluid,BP505,22,9,2024-09-01,14.3,Supplier A,436.96,21,Yes
+819,Oil Filter,CL707,66,6,2023-06-18,17.0,Supplier E,168.71,17,Yes
+820,Air Filter,BP505,18,3,2023-03-08,12.2,Supplier B,443.25,17,Yes
+821,Oil Filter,FF789,84,1,2024-02-27,5.1,Supplier C,350.54,1,Yes
+822,Transmission Fluid,TF606,90,2,2023-02-27,13.0,Supplier A,30.54,16,Yes
+823,Spark Plug,TF606,33,4,2023-08-18,7.6,Supplier E,227.08,12,Yes
+824,Fuel Filter,BT404,99,4,2023-05-22,5.6,Supplier C,87.8,1,No
+825,Hydraulic Hose,AF456,15,5,2023-01-29,17.7,Supplier C,322.54,20,Yes
+826,Spark Plug,FF789,86,1,2023-12-08,12.1,Supplier A,109.89,10,Yes
+827,Air Filter,BP505,64,7,2023-05-19,8.3,Supplier A,190.99,17,No
+828,Hydraulic Hose,OF123,74,4,2023-10-19,17.9,Supplier E,141.32,1,Yes
+829,Hydraulic Hose,CL707,39,3,2024-07-25,6.9,Supplier D,395.34,24,Yes
+830,Spark Plug,CL707,89,8,2023-03-19,10.2,Supplier A,214.75,20,Yes
+831,Spark Plug,HH101,48,7,2023-10-21,15.3,Supplier B,341.26,4,No
+832,Fuel Filter,SP303,8,9,2023-10-09,8.8,Supplier A,109.17,12,Yes
+833,Brake Pad,TF606,47,3,2023-04-16,9.8,Supplier C,318.99,13,Yes
+834,Transmission Fluid,CL707,13,6,2023-01-27,2.1,Supplier A,21.9,10,Yes
+835,Transmission Fluid,BT404,54,4,2023-12-11,19.4,Supplier C,385.3,2,No
+836,Oil Filter,OF123,22,8,2024-08-05,8.1,Supplier D,228.39,8,No
+837,Hydraulic Hose,OF123,22,1,2023-01-12,10.5,Supplier D,212.32,2,No
+838,Tire,BP505,52,7,2023-05-18,6.4,Supplier E,397.92,28,No
+839,Brake Pad,OF123,59,3,2024-06-23,15.0,Supplier D,22.87,24,Yes
+840,Air Filter,FF789,36,3,2023-04-11,1.6,Supplier C,292.94,20,No
+841,Air Filter,CL707,78,4,2023-11-16,19.0,Supplier B,300.49,1,No
+842,Brake Pad,AF456,68,1,2023-08-03,4.9,Supplier B,117.44,19,No
+843,Air Filter,SP303,94,7,2023-02-07,3.5,Supplier D,488.32,13,No
+844,Brake Pad,T202,35,2,2023-09-14,15.6,Supplier A,56.26,13,No
+845,Spark Plug,FF789,4,2,2024-05-28,12.4,Supplier C,74.38,3,Yes
+846,Coolant,HH101,3,5,2024-03-27,3.6,Supplier A,477.62,5,Yes
+847,Battery,HH101,31,6,2024-07-06,16.5,Supplier B,206.37,13,No
+848,Air Filter,CL707,98,2,2023-05-14,4.8,Supplier D,133.76,12,No
+849,Tire,OF123,59,9,2023-11-13,5.1,Supplier D,298.02,24,No
+850,Tire,CL707,65,4,2024-01-31,10.9,Supplier A,163.61,27,No
+851,Oil Filter,SP303,32,4,2024-03-28,3.4,Supplier C,182.4,11,No
+852,Oil Filter,BP505,60,3,2023-06-22,6.4,Supplier C,232.4,16,Yes
+853,Oil Filter,BT404,25,7,2023-09-01,1.3,Supplier A,31.49,16,No
+854,Tire,FF789,24,1,2024-09-23,13.5,Supplier E,163.72,3,No
+855,Hydraulic Hose,TF606,81,4,2024-03-21,18.0,Supplier B,164.43,23,Yes
+856,Transmission Fluid,TF606,15,1,2023-03-15,10.7,Supplier B,473.6,7,No
+857,Tire,HH101,33,8,2023-05-27,9.7,Supplier E,267.42,15,Yes
+858,Fuel Filter,T202,34,7,2023-10-07,18.3,Supplier C,177.09,14,Yes
+859,Fuel Filter,OF123,14,5,2023-02-24,11.8,Supplier E,276.33,19,Yes
+860,Spark Plug,HH101,19,5,2024-07-23,8.7,Supplier A,248.86,19,No
+861,Air Filter,T202,66,7,2023-01-19,5.7,Supplier E,384.58,12,Yes
+862,Transmission Fluid,BP505,4,2,2023-03-15,2.8,Supplier B,230.76,28,Yes
+863,Transmission Fluid,SP303,45,9,2024-02-25,15.3,Supplier B,488.75,29,No
+864,Air Filter,FF789,61,2,2024-02-25,12.6,Supplier C,430.68,19,Yes
+865,Air Filter,SP303,83,1,2023-07-07,6.4,Supplier B,10.95,28,No
+866,Hydraulic Hose,AF456,21,4,2023-12-23,17.6,Supplier E,73.68,16,No
+867,Fuel Filter,SP303,54,8,2023-10-02,0.7,Supplier C,200.51,13,Yes
+868,Brake Pad,FF789,79,9,2024-09-15,9.1,Supplier A,70.44,26,Yes
+869,Fuel Filter,BP505,61,8,2023-06-20,5.3,Supplier A,97.69,12,No
+870,Brake Pad,SP303,97,5,2024-04-26,17.0,Supplier A,478.83,19,Yes
+871,Tire,AF456,3,4,2023-08-14,2.6,Supplier D,286.99,15,Yes
+872,Fuel Filter,FF789,33,7,2023-02-21,17.3,Supplier C,441.29,26,No
+873,Fuel Filter,CL707,27,7,2024-01-15,13.1,Supplier B,193.41,15,No
+874,Air Filter,AF456,35,1,2023-10-04,11.7,Supplier B,284.56,23,Yes
+875,Spark Plug,TF606,53,6,2023-12-08,4.1,Supplier E,173.66,15,Yes
+876,Transmission Fluid,OF123,83,8,2023-03-17,11.7,Supplier B,111.0,9,Yes
+877,Hydraulic Hose,FF789,52,7,2023-01-24,17.7,Supplier E,303.8,10,No
+878,Transmission Fluid,FF789,42,8,2024-02-24,19.0,Supplier E,296.12,20,No
+879,Air Filter,BT404,3,1,2023-10-08,8.3,Supplier A,196.47,1,No
+880,Brake Pad,FF789,71,2,2023-03-14,7.6,Supplier A,301.74,16,No
+881,Battery,SP303,99,8,2023-12-02,11.5,Supplier C,398.71,17,No
+882,Brake Pad,SP303,79,3,2023-09-26,3.8,Supplier A,72.63,21,No
+883,Transmission Fluid,TF606,64,5,2023-08-10,13.8,Supplier E,212.21,15,Yes
+884,Battery,BT404,55,9,2023-03-01,9.6,Supplier E,274.31,22,No
+885,Battery,OF123,60,9,2023-01-30,10.5,Supplier E,284.31,14,Yes
+886,Oil Filter,HH101,52,9,2023-06-07,5.4,Supplier D,159.22,19,No
+887,Hydraulic Hose,BP505,96,2,2023-08-14,13.2,Supplier A,477.24,17,Yes
+888,Hydraulic Hose,T202,62,6,2024-08-27,18.3,Supplier B,395.66,12,No
+889,Hydraulic Hose,T202,42,9,2024-08-19,9.5,Supplier E,44.57,9,No
+890,Battery,AF456,16,5,2024-05-19,11.9,Supplier E,255.29,16,Yes
+891,Transmission Fluid,OF123,45,8,2023-01-23,8.5,Supplier A,410.38,13,Yes
+892,Tire,SP303,89,8,2024-09-14,16.5,Supplier D,487.01,16,No
+893,Fuel Filter,BP505,76,2,2023-06-10,6.9,Supplier B,107.57,21,Yes
+894,Battery,SP303,72,8,2023-05-29,11.7,Supplier A,426.37,26,Yes
+895,Hydraulic Hose,HH101,6,2,2024-01-26,5.5,Supplier D,240.67,1,No
+896,Oil Filter,HH101,74,3,2023-11-08,4.2,Supplier E,164.17,27,No
+897,Battery,HH101,19,2,2023-08-09,16.0,Supplier E,51.29,9,No
+898,Hydraulic Hose,AF456,66,4,2023-04-24,2.6,Supplier A,411.61,18,Yes
+899,Hydraulic Hose,CL707,68,4,2023-07-29,13.7,Supplier C,374.83,26,No
+900,Oil Filter,HH101,7,6,2023-10-14,7.2,Supplier A,144.0,23,Yes
+901,Battery,FF789,32,1,2024-03-09,0.9,Supplier E,119.17,19,Yes
+902,Air Filter,HH101,63,3,2023-07-01,2.8,Supplier D,173.49,1,Yes
+903,Tire,CL707,83,5,2024-04-15,12.2,Supplier E,303.47,22,Yes
+904,Battery,TF606,50,7,2023-01-11,7.2,Supplier E,177.23,2,No
+905,Hydraulic Hose,FF789,66,7,2024-02-06,5.0,Supplier A,23.48,22,Yes
+906,Fuel Filter,OF123,67,4,2023-07-21,4.9,Supplier C,363.42,4,No
+907,Hydraulic Hose,HH101,51,9,2023-10-15,13.3,Supplier B,417.24,14,Yes
+908,Brake Pad,CL707,69,2,2023-04-30,17.9,Supplier D,282.77,6,Yes
+909,Battery,FF789,10,4,2023-08-16,16.8,Supplier C,298.87,22,Yes
+910,Brake Pad,BT404,20,8,2024-09-14,0.7,Supplier B,317.45,24,No
+911,Battery,BP505,95,5,2023-01-19,11.0,Supplier E,12.45,16,Yes
+912,Air Filter,CL707,13,3,2024-06-06,2.7,Supplier E,283.42,17,No
+913,Transmission Fluid,HH101,69,8,2024-02-18,8.8,Supplier A,221.56,4,Yes
+914,Air Filter,T202,0,5,2024-01-08,0.6,Supplier D,215.52,10,Yes
+915,Oil Filter,HH101,73,7,2024-04-05,8.0,Supplier B,43.96,16,No
+916,Spark Plug,T202,52,9,2023-03-27,19.0,Supplier C,139.53,8,No
+917,Coolant,OF123,19,6,2024-09-24,12.3,Supplier C,18.52,7,No
+918,Tire,TF606,1,1,2024-06-20,1.4,Supplier A,250.6,16,No
+919,Hydraulic Hose,CL707,70,5,2024-06-12,7.6,Supplier B,358.55,14,Yes
+920,Battery,BT404,38,3,2023-08-28,11.7,Supplier E,397.65,23,Yes
+921,Fuel Filter,TF606,58,4,2023-07-02,18.1,Supplier A,199.11,17,No
+922,Air Filter,FF789,1,5,2023-07-09,13.0,Supplier E,141.73,13,Yes
+923,Oil Filter,SP303,46,2,2024-07-02,16.4,Supplier A,121.27,13,Yes
+924,Brake Pad,HH101,7,5,2024-06-23,5.8,Supplier A,474.66,11,Yes
+925,Fuel Filter,BP505,68,1,2024-03-18,13.7,Supplier E,187.1,22,No
+926,Oil Filter,TF606,79,4,2023-06-15,6.4,Supplier E,13.93,28,No
+927,Tire,TF606,56,7,2023-08-07,3.6,Supplier B,135.59,13,Yes
+928,Air Filter,BP505,72,7,2023-12-29,13.1,Supplier E,208.94,3,Yes
+929,Oil Filter,TF606,60,7,2024-06-26,8.8,Supplier C,210.96,18,No
+930,Fuel Filter,BP505,73,8,2023-01-11,11.8,Supplier B,87.05,25,Yes
+931,Battery,CL707,15,8,2023-07-25,2.9,Supplier D,161.66,4,Yes
+932,Brake Pad,AF456,54,8,2023-06-08,15.8,Supplier E,114.14,25,No
+933,Brake Pad,SP303,91,4,2023-02-10,19.5,Supplier D,197.13,20,No
+934,Tire,SP303,23,2,2024-05-19,3.7,Supplier C,337.0,22,No
+935,Battery,OF123,90,8,2023-10-11,9.1,Supplier E,397.92,27,No
+936,Hydraulic Hose,BT404,64,5,2024-02-14,5.4,Supplier D,34.67,15,Yes
+937,Tire,AF456,20,9,2024-05-26,4.0,Supplier E,104.41,7,Yes
+938,Hydraulic Hose,T202,10,5,2024-02-13,18.4,Supplier E,271.09,8,Yes
+939,Fuel Filter,SP303,74,5,2023-03-07,1.2,Supplier E,366.43,24,Yes
+940,Brake Pad,AF456,24,1,2023-04-07,7.6,Supplier E,326.34,22,No
+941,Oil Filter,CL707,51,9,2023-11-25,11.8,Supplier A,27.06,25,Yes
+942,Transmission Fluid,SP303,7,6,2023-12-07,11.9,Supplier C,287.32,14,No
+943,Fuel Filter,FF789,15,9,2023-09-18,19.7,Supplier A,77.86,27,Yes
+944,Oil Filter,CL707,91,3,2024-03-14,12.6,Supplier C,327.88,19,No
+945,Transmission Fluid,OF123,11,3,2024-02-19,17.5,Supplier E,478.07,11,Yes
+946,Hydraulic Hose,T202,7,7,2023-07-23,8.7,Supplier C,266.02,11,No
+947,Transmission Fluid,BP505,30,8,2023-08-22,13.6,Supplier B,15.23,10,Yes
+948,Battery,SP303,17,6,2024-08-10,12.8,Supplier D,389.54,9,Yes
+949,Transmission Fluid,BT404,81,8,2023-06-15,13.5,Supplier D,28.35,11,No
+950,Transmission Fluid,HH101,12,8,2024-07-10,18.1,Supplier E,471.44,23,No
+951,Transmission Fluid,T202,76,2,2024-09-02,17.3,Supplier C,93.21,18,No
+952,Fuel Filter,HH101,91,9,2024-01-17,13.0,Supplier D,184.9,17,No
+953,Transmission Fluid,TF606,0,2,2024-05-29,7.7,Supplier D,316.54,6,No
+954,Battery,BT404,67,7,2023-02-24,6.2,Supplier C,295.26,24,No
+955,Tire,CL707,19,9,2023-07-01,15.2,Supplier C,491.03,23,Yes
+956,Spark Plug,SP303,45,1,2023-11-01,14.5,Supplier A,85.69,27,No
+957,Oil Filter,BP505,14,2,2023-07-26,2.8,Supplier A,142.6,9,No
+958,Battery,BP505,63,2,2024-06-30,15.6,Supplier C,436.69,26,Yes
+959,Brake Pad,TF606,64,3,2023-09-27,8.7,Supplier D,338.49,22,No
+960,Hydraulic Hose,AF456,63,1,2024-05-18,8.0,Supplier B,228.02,11,No
+961,Brake Pad,AF456,73,3,2023-04-08,14.1,Supplier B,396.69,4,Yes
+962,Transmission Fluid,OF123,86,1,2023-06-03,7.1,Supplier B,258.47,25,No
+963,Coolant,OF123,79,3,2024-06-04,18.6,Supplier E,31.13,23,Yes
+964,Brake Pad,FF789,38,6,2023-10-12,1.5,Supplier A,262.25,24,Yes
+965,Air Filter,T202,93,5,2024-03-10,2.6,Supplier B,339.69,11,Yes
+966,Battery,HH101,33,1,2024-01-18,19.6,Supplier B,252.98,19,No
+967,Air Filter,AF456,67,2,2023-05-23,3.3,Supplier C,41.08,29,Yes
+968,Oil Filter,CL707,77,6,2024-02-03,17.0,Supplier B,447.92,8,No
+969,Battery,FF789,52,3,2024-01-05,17.9,Supplier C,443.99,17,No
+970,Brake Pad,OF123,67,3,2024-03-20,4.0,Supplier E,326.75,15,No
+971,Spark Plug,TF606,4,2,2023-04-20,2.4,Supplier C,485.2,21,No
+972,Hydraulic Hose,OF123,95,2,2023-12-20,17.6,Supplier C,117.18,28,Yes
+973,Hydraulic Hose,BT404,24,4,2023-05-22,16.4,Supplier D,182.47,12,No
+974,Fuel Filter,AF456,4,7,2023-04-14,19.0,Supplier A,141.68,29,No
+975,Spark Plug,HH101,86,8,2023-10-29,9.8,Supplier A,320.53,19,No
+976,Spark Plug,OF123,4,3,2023-10-26,14.9,Supplier D,189.3,12,No
+977,Air Filter,SP303,53,2,2023-03-20,16.2,Supplier C,427.18,1,Yes
+978,Battery,OF123,70,3,2024-06-04,13.4,Supplier C,267.82,24,Yes
+979,Hydraulic Hose,FF789,86,9,2023-07-13,1.2,Supplier A,205.27,6,No
+980,Air Filter,TF606,35,5,2024-02-10,5.9,Supplier E,187.83,9,Yes
+981,Tire,BT404,70,5,2024-01-03,2.9,Supplier B,238.84,2,Yes
+982,Oil Filter,CL707,50,8,2023-07-19,19.8,Supplier A,243.0,27,Yes
+983,Brake Pad,T202,64,2,2023-08-06,14.9,Supplier A,132.54,11,No
+984,Fuel Filter,CL707,70,4,2023-05-18,4.4,Supplier E,67.89,18,Yes
+985,Spark Plug,BT404,22,7,2024-04-15,13.2,Supplier C,453.78,12,No
+986,Transmission Fluid,SP303,25,6,2023-09-28,9.3,Supplier D,436.31,19,No
+987,Spark Plug,FF789,15,8,2023-01-20,2.4,Supplier C,258.55,28,No
+988,Air Filter,SP303,72,7,2023-06-09,11.6,Supplier D,498.97,29,No
+989,Battery,T202,7,7,2024-03-31,9.5,Supplier B,311.95,12,Yes
+990,Tire,BP505,39,1,2023-01-29,15.2,Supplier A,478.38,14,Yes
+991,Coolant,FF789,58,1,2024-05-03,5.0,Supplier E,22.65,22,Yes
+992,Brake Pad,CL707,80,5,2023-06-03,6.3,Supplier E,418.56,11,Yes
+993,Hydraulic Hose,OF123,48,9,2024-08-15,6.6,Supplier C,201.88,17,Yes
+994,Hydraulic Hose,HH101,66,5,2023-01-01,1.0,Supplier A,256.45,1,Yes
+995,Brake Pad,BP505,64,9,2024-07-24,19.1,Supplier D,432.96,13,No
+996,Brake Pad,AF456,4,4,2023-09-08,5.9,Supplier A,454.33,4,Yes
+997,Tire,FF789,59,3,2024-07-07,9.6,Supplier C,80.49,20,No
+998,Hydraulic Hose,HH101,84,6,2024-08-14,17.7,Supplier E,442.43,29,No
+999,Tire,BT404,33,5,2024-06-06,8.5,Supplier D,131.68,28,Yes
+1000,Tire,TF606,59,8,2024-02-23,12.2,Supplier C,425.49,15,No
+1001,Battery,OF123,45,3,2023-07-14,12.9,Supplier A,399.1,14,Yes
+1002,Spark Plug,TF606,44,5,2023-07-25,15.5,Supplier D,390.87,12,No
+1003,Air Filter,TF606,49,5,2023-06-20,12.7,Supplier D,437.03,2,Yes
+1004,Transmission Fluid,CL707,47,1,2024-02-22,6.1,Supplier D,109.54,18,No
+1005,Hydraulic Hose,FF789,85,6,2023-06-11,13.6,Supplier C,435.8,19,Yes
+1006,Brake Pad,TF606,15,9,2023-11-07,16.7,Supplier E,415.32,17,No
+1007,Battery,AF456,96,8,2023-11-10,13.4,Supplier D,127.69,11,No
+1008,Battery,TF606,15,5,2023-01-27,6.5,Supplier A,263.61,8,Yes
+1009,Air Filter,BP505,62,5,2023-07-02,6.3,Supplier B,383.4,18,Yes
+1010,Battery,T202,2,7,2023-10-02,12.5,Supplier C,347.32,3,Yes
+1011,Air Filter,FF789,56,9,2024-08-15,2.4,Supplier A,293.57,20,No
+1012,Tire,BP505,24,8,2024-09-13,8.2,Supplier C,268.97,20,No
+1013,Hydraulic Hose,HH101,17,5,2024-07-25,4.0,Supplier C,280.45,14,No
+1014,Tire,CL707,89,1,2024-02-17,15.6,Supplier B,228.24,15,Yes
+1015,Coolant,CL707,84,1,2024-03-13,14.9,Supplier D,407.68,2,Yes
+1016,Transmission Fluid,CL707,53,3,2024-01-22,5.9,Supplier A,143.61,29,No
+1017,Transmission Fluid,SP303,76,6,2023-12-29,14.5,Supplier C,335.12,1,No
+1018,Hydraulic Hose,AF456,65,9,2024-01-13,19.7,Supplier C,194.24,26,Yes
+1019,Transmission Fluid,TF606,91,6,2024-09-23,5.0,Supplier E,16.7,13,Yes
+1020,Oil Filter,HH101,11,1,2023-02-20,10.5,Supplier E,23.37,9,No
+1021,Transmission Fluid,FF789,2,2,2024-01-13,4.5,Supplier E,383.59,20,Yes
+1022,Oil Filter,BP505,34,5,2024-09-19,14.7,Supplier A,470.35,19,No
+1023,Fuel Filter,CL707,42,6,2023-01-22,17.7,Supplier A,60.4,27,Yes
+1024,Brake Pad,SP303,27,7,2023-10-25,13.5,Supplier C,54.97,5,No
+1025,Brake Pad,TF606,76,3,2023-07-26,6.5,Supplier D,108.54,29,Yes
+1026,Transmission Fluid,AF456,16,2,2024-07-13,9.4,Supplier A,121.68,11,Yes
+1027,Air Filter,TF606,25,6,2024-05-10,18.4,Supplier A,40.4,24,Yes
+1028,Fuel Filter,BP505,30,6,2023-04-17,14.9,Supplier E,449.11,8,No
+1029,Tire,TF606,56,4,2023-09-21,4.3,Supplier C,175.15,20,No
+1030,Air Filter,AF456,6,4,2024-09-23,3.5,Supplier E,297.76,12,Yes
+1031,Fuel Filter,OF123,16,4,2023-09-02,19.9,Supplier B,493.37,17,Yes
+1032,Air Filter,T202,80,9,2023-01-04,7.6,Supplier B,373.22,8,Yes
+1033,Brake Pad,BP505,27,6,2023-08-28,3.6,Supplier A,305.99,20,No
+1034,Transmission Fluid,CL707,69,4,2023-09-13,0.8,Supplier D,25.21,2,Yes
+1035,Oil Filter,BP505,44,3,2023-02-09,19.8,Supplier C,398.55,23,Yes
+1036,Oil Filter,T202,6,9,2024-08-18,8.9,Supplier C,383.04,21,No
+1037,Brake Pad,FF789,21,8,2023-12-15,13.8,Supplier E,461.78,23,Yes
+1038,Oil Filter,BP505,53,2,2023-09-15,1.2,Supplier B,323.53,14,Yes
+1039,Spark Plug,BT404,89,5,2024-03-14,8.4,Supplier D,167.11,29,No
+1040,Coolant,OF123,19,8,2024-09-20,19.4,Supplier C,219.65,28,Yes
+1041,Fuel Filter,AF456,63,2,2024-05-24,10.7,Supplier C,298.64,25,Yes
+1042,Air Filter,TF606,7,2,2024-05-23,8.4,Supplier A,323.44,24,Yes
+1043,Air Filter,CL707,48,3,2023-03-02,1.0,Supplier D,94.48,13,Yes
+1044,Oil Filter,BT404,51,6,2024-01-24,5.9,Supplier A,298.33,16,No
+1045,Battery,CL707,92,4,2023-09-17,16.5,Supplier B,96.11,29,No
+1046,Transmission Fluid,OF123,93,5,2023-04-16,10.5,Supplier C,90.27,21,Yes
+1047,Oil Filter,AF456,65,3,2024-05-18,13.6,Supplier E,391.27,18,Yes
+1048,Air Filter,FF789,23,9,2023-07-05,11.9,Supplier C,356.9,16,No
+1049,Hydraulic Hose,TF606,57,2,2024-09-14,18.7,Supplier E,99.48,2,No
+1050,Battery,T202,4,8,2024-09-11,3.4,Supplier D,157.79,23,No
+1051,Air Filter,CL707,87,4,2024-01-18,1.7,Supplier A,88.2,22,No
+1052,Coolant,BT404,31,8,2023-09-22,0.5,Supplier A,182.26,11,Yes
+1053,Tire,BT404,89,4,2023-12-31,12.8,Supplier D,379.53,28,Yes
+1054,Brake Pad,BT404,15,7,2024-01-09,6.2,Supplier B,406.33,28,Yes
+1055,Hydraulic Hose,SP303,12,6,2024-09-07,5.0,Supplier E,301.5,18,No
+1056,Coolant,TF606,94,4,2024-02-19,11.0,Supplier D,479.36,27,Yes
+1057,Air Filter,AF456,90,6,2024-03-22,16.2,Supplier B,452.79,22,No
+1058,Transmission Fluid,TF606,14,3,2024-09-27,16.0,Supplier D,25.5,5,No
+1059,Tire,OF123,17,9,2024-08-15,7.6,Supplier B,416.79,19,No
+1060,Spark Plug,OF123,11,1,2023-05-14,18.3,Supplier B,197.47,17,Yes
+1061,Fuel Filter,BP505,15,8,2024-02-12,14.1,Supplier A,123.02,29,Yes
+1062,Battery,T202,4,1,2024-02-19,9.7,Supplier E,181.64,4,No
+1063,Air Filter,BP505,18,2,2023-06-04,11.3,Supplier D,58.6,22,Yes
+1064,Spark Plug,OF123,40,8,2024-01-31,12.5,Supplier A,499.83,12,Yes
+1065,Tire,BT404,20,7,2023-03-10,17.8,Supplier C,57.27,4,Yes
+1066,Air Filter,CL707,70,8,2023-05-21,6.8,Supplier C,74.42,23,No
+1067,Air Filter,T202,70,3,2023-04-18,2.2,Supplier D,260.22,15,No
+1068,Air Filter,BT404,7,3,2024-05-24,8.9,Supplier C,104.7,7,No
+1069,Tire,SP303,93,1,2023-09-07,1.2,Supplier D,462.84,3,Yes
+1070,Tire,FF789,1,4,2024-02-17,8.4,Supplier E,483.67,10,Yes
+1071,Tire,CL707,17,2,2023-12-03,7.9,Supplier B,230.89,29,No
+1072,Transmission Fluid,SP303,11,5,2024-06-17,19.8,Supplier B,54.55,1,No
+1073,Air Filter,TF606,86,6,2023-05-30,16.0,Supplier A,82.84,26,No
+1074,Hydraulic Hose,TF606,9,5,2023-09-01,1.3,Supplier C,418.7,11,No
+1075,Coolant,HH101,50,7,2024-02-12,17.4,Supplier D,219.14,13,No
+1076,Spark Plug,FF789,67,7,2024-09-02,18.3,Supplier B,386.89,8,Yes
+1077,Oil Filter,BT404,1,1,2024-06-28,15.9,Supplier D,170.32,11,No
+1078,Hydraulic Hose,SP303,73,6,2023-08-16,17.6,Supplier C,281.79,25,No
+1079,Air Filter,FF789,53,5,2023-10-03,19.2,Supplier A,459.67,16,No
+1080,Tire,FF789,25,2,2023-10-29,18.3,Supplier C,437.21,27,No
+1081,Spark Plug,SP303,38,5,2023-11-13,14.2,Supplier A,237.46,26,No
+1082,Oil Filter,BP505,55,1,2024-06-26,1.2,Supplier C,264.66,14,No
+1083,Oil Filter,HH101,68,3,2023-06-05,12.2,Supplier E,67.54,19,No
+1084,Air Filter,TF606,72,2,2023-02-25,12.8,Supplier D,497.46,13,Yes
+1085,Spark Plug,BP505,40,2,2024-01-11,8.2,Supplier E,264.5,22,Yes
+1086,Spark Plug,CL707,26,4,2023-10-17,4.8,Supplier A,283.59,17,No
+1087,Spark Plug,AF456,59,1,2023-07-03,1.1,Supplier E,222.37,21,No
+1088,Air Filter,FF789,42,7,2023-04-29,5.8,Supplier C,163.05,2,No
+1089,Fuel Filter,BT404,6,5,2024-04-08,19.1,Supplier B,386.46,3,Yes
+1090,Spark Plug,OF123,98,4,2024-02-29,2.7,Supplier C,19.65,10,Yes
+1091,Tire,BT404,14,2,2024-08-18,13.9,Supplier C,355.98,24,Yes
+1092,Fuel Filter,TF606,22,2,2024-04-19,14.0,Supplier C,167.76,16,Yes
+1093,Air Filter,TF606,57,6,2023-03-25,1.6,Supplier B,264.82,23,Yes
+1094,Spark Plug,BT404,0,2,2023-10-02,14.1,Supplier A,431.34,12,Yes
+1095,Coolant,TF606,72,7,2023-06-22,19.5,Supplier B,175.78,4,No
+1096,Transmission Fluid,BP505,1,6,2023-02-22,16.0,Supplier B,164.93,25,Yes
+1097,Fuel Filter,OF123,63,5,2024-05-03,1.7,Supplier E,321.07,13,No
+1098,Fuel Filter,BT404,36,3,2024-02-24,15.9,Supplier E,411.49,26,No
+1099,Oil Filter,HH101,35,8,2023-06-28,3.6,Supplier A,22.37,21,Yes
+1100,Transmission Fluid,OF123,59,4,2023-08-18,13.9,Supplier D,46.93,5,Yes
